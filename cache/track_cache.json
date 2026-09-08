@@ -5776,5 +5776,39 @@
       "artist": "smush"
     }
   ],
-  "Boltcutter/ Misery Whip/ Forced To Suffer/ Iron Front": []
+  "Boltcutter/ Misery Whip/ Forced To Suffer/ Iron Front": [],
+  "MC Abdul": [
+    {
+      "uri": "spotify:track:2mG7R3NJdDBfxfx1ETqv0Q",
+      "name": "Shouting At The Wall",
+      "artist": "MC Abdul"
+    },
+    {
+      "uri": "spotify:track:4OOUv5ZpeYkmf0Q9FzSu3T",
+      "name": "Wein Abdul?",
+      "artist": "MC Abdul"
+    },
+    {
+      "uri": "spotify:track:77BOEFqrLR4GorhMHwUYoG",
+      "name": "HIND'S HALL 2 (feat. anees, MC Abdul, & Amer Zahr)",
+      "artist": "MC Abdul"
+    }
+  ],
+  "Deante' Hitchcock": [
+    {
+      "uri": "spotify:track:2IQjNT6EXEEJhR3x5KnlOU",
+      "name": "Flashbacks (feat. Miguel & St. Beauty)",
+      "artist": "Deante' Hitchcock"
+    },
+    {
+      "uri": "spotify:track:1IFIZTpvfeQ3CRrH37ydOR",
+      "name": "How TF (feat. 6lack)",
+      "artist": "Deante' Hitchcock"
+    },
+    {
+      "uri": "spotify:track:2wgXqAERSVVLNwdPOfNVAa",
+      "name": "Thinking 'Bout You",
+      "artist": "Deante' Hitchcock"
+    }
+  ]
 }

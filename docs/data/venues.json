@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:31:26.905606+00:00",
+  "generated_at": "2026-09-08T11:17:56.275598+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -575,7 +575,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 62,
+          "show_count": 65,
           "shows": [
             {
               "artist": "CuVa Bim\u00f6, The Lighting Section, Soft Circuit",
