@@ -5827,5 +5827,73 @@
       "name": "Tune In",
       "artist": "Tommy Fleece"
     }
+  ],
+  "The Buttertones": [
+    {
+      "uri": "spotify:track:4MAZtVdorQSXEqtkehjTKN",
+      "name": "Orpheus Under the Influence",
+      "artist": "The Buttertones"
+    },
+    {
+      "uri": "spotify:track:0ZXvylULtcnQBLiRf66WKt",
+      "name": "Reminiscing",
+      "artist": "The Buttertones"
+    },
+    {
+      "uri": "spotify:track:6weZI0ezxEqURQdUicrspx",
+      "name": "Dionysus",
+      "artist": "The Buttertones"
+    }
+  ],
+  "Com Truise": [
+    {
+      "uri": "spotify:track:2MIF5EhJoAZ6cXgMqfAwdw",
+      "name": "Propagation",
+      "artist": "Com Truise"
+    },
+    {
+      "uri": "spotify:track:7MwTQqkmTU3qcVkqp8AR6g",
+      "name": "Ultrafiche of You",
+      "artist": "Com Truise"
+    },
+    {
+      "uri": "spotify:track:655RseUuyYprKIoC0mrNSF",
+      "name": "Cyanide Sisters",
+      "artist": "Com Truise"
+    }
+  ],
+  "Strikeforce": [
+    {
+      "uri": "spotify:track:0gbcOxSQGICqIrFM1kLELX",
+      "name": "Shift",
+      "artist": "Strikeforce"
+    },
+    {
+      "uri": "spotify:track:2BG1R8Ms8u59TS3JuZrQu0",
+      "name": "Strike First",
+      "artist": "Strikeforce"
+    },
+    {
+      "uri": "spotify:track:0h0PIQ2tVfPJ2Qg0IYogIA",
+      "name": "Strikeforce",
+      "artist": "Strikeforce"
+    }
+  ],
+  "LOCKED SHUT": [
+    {
+      "uri": "spotify:track:3s5opRQpjbMqCXeTkk8JV8",
+      "name": "Steel Spine",
+      "artist": "LOCKED SHUT"
+    },
+    {
+      "uri": "spotify:track:1hpcp1lQloRTkC9NPbvhEx",
+      "name": "Me vs. a Brick Wall",
+      "artist": "LOCKED SHUT"
+    },
+    {
+      "uri": "spotify:track:7nP2Yqe3u7EnVt2AGeZgxx",
+      "name": "Toothache",
+      "artist": "LOCKED SHUT"
+    }
   ]
 }

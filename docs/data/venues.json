@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:22:08.880932+00:00",
+  "generated_at": "2026-09-10T11:18:38.740587+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 82,
+          "show_count": 83,
           "shows": [
-            {
-              "artist": "Kevin Atwater",
-              "show_date": "2026-09-09",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kevin-atwater-the-independent-tickets/14977833"
-            },
             {
               "artist": "Rules",
               "show_date": "2026-09-10",
@@ -98,6 +91,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/dana-and-alden-the-independent-tickets/14964703"
+            },
+            {
+              "artist": "Ghostly Kisses",
+              "show_date": "2026-09-23",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Rosie Carney"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/ghostly-kisses-the-independent-tickets/14848403"
             }
           ]
         },
@@ -472,7 +474,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 25,
           "shows": [
             {
               "artist": "Super Diamond",
@@ -676,15 +678,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Open Mic Night",
-              "show_date": "2026-09-09",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032914"
-            },
             {
               "artist": "St\u00e4l\u00e4g13/ Straggler/ Hell Bound Pound/ Fatale",
               "show_date": "2026-09-10",
@@ -761,6 +756,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227314"
+            },
+            {
+              "artist": "Open Mic Night",
+              "show_date": "2026-09-23",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032644"
             }
           ]
         }
