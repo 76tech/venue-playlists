@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:18:38.740587+00:00",
+  "generated_at": "2026-09-11T11:20:16.574280+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 83,
+          "show_count": 82,
           "shows": [
-            {
-              "artist": "Rules",
-              "show_date": "2026-09-10",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rules-the-independent-tickets/14238244"
-            },
             {
               "artist": "Arlo",
               "show_date": "2026-09-11",
@@ -100,6 +93,13 @@
                 "Rosie Carney"
               ],
               "ticket_url": "https://www.ticketweb.com/event/ghostly-kisses-the-independent-tickets/14848403"
+            },
+            {
+              "artist": "Red Leather",
+              "show_date": "2026-09-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/wesghost-red-leather-the-independent-tickets/14958013"
             }
           ]
         },
@@ -112,7 +112,7 @@
           "cover": "assets/covers/rickshaw-stop-sf.jpg",
           "calendar_url": "https://rickshawstop.com/calendar/",
           "stale": false,
-          "show_count": 10,
+          "show_count": 11,
           "shows": [
             {
               "artist": "Be Your Own Pet",
@@ -193,6 +193,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PfoA"
+            },
+            {
+              "artist": "Milk & Bone",
+              "show_date": "2026-12-18",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvbkA"
             }
           ]
         },
@@ -306,7 +313,7 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 19,
           "shows": [
             {
               "artist": "Necrot",
@@ -474,7 +481,7 @@
           "cover": "assets/covers/bimbos-365-club-sf.jpg",
           "calendar_url": "https://bimbos365club.com/",
           "stale": false,
-          "show_count": 25,
+          "show_count": 26,
           "shows": [
             {
               "artist": "Super Diamond",
@@ -577,7 +584,7 @@
           "cover": "assets/covers/brick-and-mortar-sf.jpg",
           "calendar_url": "https://brickandmortarmusic.com/",
           "stale": false,
-          "show_count": 66,
+          "show_count": 65,
           "shows": [
             {
               "artist": "CuVa Bim\u00f6, The Lighting Section, Soft Circuit",
@@ -585,13 +592,6 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cuva-bim-the-lighting-section-brick-and-mortar-music-hall-tickets/14195524"
-            },
-            {
-              "artist": "Konstancy, Sammy Shiblaq, Hakvm, Katana",
-              "show_date": "2026-09-12",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/konstancy-sammy-shiblaq-hakvm-katana-brick-and-mortar-music-hall-tickets/15021823"
             },
             {
               "artist": "Dutch Melrose, Benny Mayne, Pretty Havoc",
@@ -666,6 +666,15 @@
                 "Kennedyxoxo"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7JZQZ"
+            },
+            {
+              "artist": "Guardin",
+              "show_date": "2026-09-27",
+              "show_time": "20:30:00",
+              "support_acts": [
+                "Kennedyxoxo"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/guardin-w-kennedyxoxo-fijimar-brick-and-mortar-music-hall-tickets/14236014"
             }
           ]
         },
@@ -678,15 +687,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "St\u00e4l\u00e4g13/ Straggler/ Hell Bound Pound/ Fatale",
-              "show_date": "2026-09-10",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/stlg13-straggler-hell-bound-pound-neck-of-the-woods-tickets/14289764"
-            },
             {
               "artist": "Double XP/ Zapstar/ Ulyssescfm/ Luna Ivy/ Quinkana",
               "show_date": "2026-09-11",
@@ -763,6 +765,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/neck-of-the-woods-sf-neck-of-the-woods-tickets/14032644"
+            },
+            {
+              "artist": "FlipABeatClub Presents: WAV Forum 4th Fridays at Neck of the Woods SF",
+              "show_date": "2026-09-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14311774"
             }
           ]
         }
