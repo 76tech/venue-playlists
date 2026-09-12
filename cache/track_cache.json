@@ -5929,5 +5929,47 @@
       "name": "Aging Young Women",
       "artist": "Anna von Hausswolff"
     }
+  ],
+  "The Strike": [
+    {
+      "uri": "spotify:track:0lPZOoUeMyRhnw5y8toFhS",
+      "name": "The Getaway",
+      "artist": "The Strike"
+    },
+    {
+      "uri": "spotify:track:3FvlayEQ7rHflEnZCt1zdH",
+      "name": "Nothing New",
+      "artist": "The Strike"
+    },
+    {
+      "uri": "spotify:track:4YTY53IsP2suUTVilL4Vex",
+      "name": "Miles Ahead",
+      "artist": "The Strike"
+    }
+  ],
+  "Strawberry Panic/ Progidy/ Peachole/ Thicket": [],
+  "James Ivy": [
+    {
+      "uri": "spotify:track:0v2AiyfpKx4qE0c0enlSl2",
+      "name": "Eye For An Eye",
+      "artist": "James Ivy"
+    },
+    {
+      "uri": "spotify:track:16csrIbm1kZG3td3jQW8lK",
+      "name": "Something Comforting",
+      "artist": "James Ivy"
+    },
+    {
+      "uri": "spotify:track:6X3z4vJ17GABsHjAotOjap",
+      "name": "Tear",
+      "artist": "James Ivy"
+    }
+  ],
+  "Sleepwalk/ Drought/ No Lights Caged View": [
+    {
+      "uri": "spotify:track:3f8vd43LpWGlaz2h8LlahN",
+      "name": "Light Upon The Surface",
+      "artist": "Sleepwalk"
+    }
   ]
 }
