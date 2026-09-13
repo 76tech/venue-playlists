@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:45:10.412646+00:00",
+  "generated_at": "2026-09-13T11:50:40.254400+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 82,
+          "show_count": 81,
           "shows": [
-            {
-              "artist": "BL3SS - 360 Set - North American Tour 2026",
-              "show_date": "2026-09-12",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bl3ss-360-set-the-independent-tickets/14972693"
-            },
             {
               "artist": "Towa Bird",
               "show_date": "2026-09-13",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/in-color-the-independent-tickets/14960173"
+            },
+            {
+              "artist": "West 22nd",
+              "show_date": "2026-09-26",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/west-22nd-the-independent-tickets/14918693"
             }
           ]
         },
@@ -682,22 +682,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 65,
+          "show_count": 63,
           "shows": [
-            {
-              "artist": "Femcel SZN",
-              "show_date": "2026-09-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/femcel-szn-neck-of-the-woods-tickets/15043933"
-            },
-            {
-              "artist": "Slow Coast/ The Moondrops/ Sun Casino",
-              "show_date": "2026-09-12",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/slow-coast-the-moondrops-sun-neck-of-the-woods-tickets/14251584"
-            },
             {
               "artist": "Strawberry Panic/ Progidy/ Peachole/ Thicket",
               "show_date": "2026-09-13",
@@ -767,6 +753,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/flipabeatclub-presents-wav-forum-4th-neck-of-the-woods-tickets/14311774"
+            },
+            {
+              "artist": "Medscool/ Wiseacre/ Little Oil",
+              "show_date": "2026-09-25",
+              "show_time": "20:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/medscool-wiseacre-little-oil-neck-of-the-woods-tickets/14281784"
+            },
+            {
+              "artist": "Triangle Fire/ Choke/ P.O.S./ Ick",
+              "show_date": "2026-09-29",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/triangle-fire-choke-pos-ick-neck-of-the-woods-tickets/14300224"
             }
           ]
         }
