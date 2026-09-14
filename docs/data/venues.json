@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:50:40.254400+00:00",
+  "generated_at": "2026-09-14T12:45:33.720010+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/the-independent-sf.jpg",
           "calendar_url": "https://www.theindependentsf.com/",
           "stale": false,
-          "show_count": 81,
+          "show_count": 80,
           "shows": [
-            {
-              "artist": "Towa Bird",
-              "show_date": "2026-09-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/towa-bird-the-independent-tickets/14978123"
-            },
             {
               "artist": "The Tear Garden (The Legendary Pink Dots & cEvin Key)",
               "show_date": "2026-09-15",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/west-22nd-the-independent-tickets/14918693"
+            },
+            {
+              "artist": "Hot Chip DJ Set",
+              "show_date": "2026-09-27",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/hot-chip-dj-set-the-independent-tickets/15041943"
             }
           ]
         },
@@ -212,15 +212,8 @@
           "cover": "assets/covers/the-chapel-sf.jpg",
           "calendar_url": "https://thechapelsf.com/music/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "Carla dal Forno",
-              "show_date": "2026-09-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Moa"
-            },
             {
               "artist": "Magic Sword",
               "show_date": "2026-09-16",
@@ -303,6 +296,13 @@
                 "Carpool Tunnel"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PPvO"
+            },
+            {
+              "artist": "Hovvdy",
+              "show_date": "2026-10-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70MoK"
             }
           ]
         },
@@ -315,15 +315,8 @@
           "cover": "assets/covers/great-american-music-hall-sf.jpg",
           "calendar_url": "https://gamh.com/calendar/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Bear McCreary",
-              "show_date": "2026-09-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Poa"
-            },
             {
               "artist": "When Chai Met Toast",
               "show_date": "2026-09-16",
@@ -402,6 +395,13 @@
               "show_time": "18:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZvQp"
+            },
+            {
+              "artist": "illuminati hotties",
+              "show_date": "2026-10-24",
+              "show_time": "19:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4Gw"
             }
           ]
         },
@@ -682,15 +682,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 63,
+          "show_count": 64,
           "shows": [
-            {
-              "artist": "Strawberry Panic/ Progidy/ Peachole/ Thicket",
-              "show_date": "2026-09-13",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/strawberry-panic-progidy-peachole-thicket-neck-of-the-woods-tickets/14316194"
-            },
             {
               "artist": "Karaoke Tuesday",
               "show_date": "2026-09-15",
@@ -767,6 +760,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/triangle-fire-choke-pos-ick-neck-of-the-woods-tickets/14300224"
+            },
+            {
+              "artist": "Karaoke Tuesday",
+              "show_date": "2026-09-29",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227034"
             }
           ]
         }
