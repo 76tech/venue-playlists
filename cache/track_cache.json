@@ -5972,5 +5972,22 @@
       "artist": "Sleepwalk"
     }
   ],
-  "Personal Space Man/ Eli Elisco/ Starfari": []
+  "Personal Space Man/ Eli Elisco/ Starfari": [],
+  "JD McPherson": [
+    {
+      "uri": "spotify:track:3B6QJzABFSTlPcsHupSqOj",
+      "name": "North Side Gal",
+      "artist": "JD McPherson"
+    },
+    {
+      "uri": "spotify:track:2iGMuLTr8WiLNCj5x5ppdC",
+      "name": "Head Over Heels",
+      "artist": "JD McPherson"
+    },
+    {
+      "uri": "spotify:track:5szOfM7kagFfpqaqBZdq9y",
+      "name": "LUCKY PENNY",
+      "artist": "JD McPherson"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:45:33.720010+00:00",
+  "generated_at": "2026-09-15T11:43:17.917564+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -479,13 +479,6 @@
           "show_count": 25,
           "shows": [
             {
-              "artist": "Haute & Freddy",
-              "show_date": "2026-09-14",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/haute-freddy-bimbos-365-club-tickets/14826723"
-            },
-            {
               "artist": "Lido Pimienta",
               "show_date": "2026-09-18",
               "show_time": "20:00:00",
@@ -567,6 +560,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lewis-ofman-bimbos-365-club-tickets/14933603"
+            },
+            {
+              "artist": "Stella Lefty",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Grace Enger"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Epk"
             }
           ]
         },
@@ -635,7 +637,7 @@
               "show_date": "2026-09-26",
               "show_time": "21:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/max-fry-awannabae-brick-and-mortar-music-hall-tickets/14207334"
+              "ticket_url": "https://www.ticketweb.com/event/max-fry-awannabe-brick-and-mortar-music-hall-tickets/14207334"
             },
             {
               "artist": "Guardin",
