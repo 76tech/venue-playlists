@@ -5989,5 +5989,65 @@
       "name": "LUCKY PENNY",
       "artist": "JD McPherson"
     }
-  ]
+  ],
+  "1 Umbrella": [
+    {
+      "uri": "spotify:track:5lU1b02ar5sLIwFt8Eocmx",
+      "name": "1 Umbrella (feat. ALLBLACK & 22nd Jim)",
+      "artist": "1 Umbrella"
+    },
+    {
+      "uri": "spotify:track:4kqytEv5y0VaSw6xCi7Yf8",
+      "name": "Pretty",
+      "artist": "1 Umbrella"
+    },
+    {
+      "uri": "spotify:track:47BlerlQ13K4OIEObFVRWr",
+      "name": "Off Top (feat. 22nd Jim & Larry June)",
+      "artist": "1 Umbrella"
+    }
+  ],
+  "Elijah Fox Trio Tour ft Myles Martin and Solo Smith": [
+    {
+      "uri": "spotify:track:6RhpM1a5RArgv3GAEphNja",
+      "name": "Never Let Me Go",
+      "artist": "Elijah Fox"
+    },
+    {
+      "uri": "spotify:track:0EFX1V0F8QikfnLNhvHRys",
+      "name": "Desert Mirage",
+      "artist": "Elijah Fox"
+    },
+    {
+      "uri": "spotify:track:15rJDmfpMhdXAkbmtj8TUW",
+      "name": "Mt. Wilson Observatory",
+      "artist": "Elijah Fox"
+    }
+  ],
+  "Paige Fish \u2014 The Midnight Crisis Tour": [],
+  "Amor De Dios/ Forced To Suffer/ exutoire/ A Life Spent/ Off Tops": [
+    {
+      "uri": "spotify:track:230pHOD11KKuNeFwmiRe8n",
+      "name": "Conviction",
+      "artist": "Amor De Dios"
+    }
+  ],
+  "Lil Darkie (album release show)": [
+    {
+      "uri": "spotify:track:2S7uJQCvFAyANAnDiyVER8",
+      "name": "HUMANS AND MONSTERS",
+      "artist": "Lil Darkie"
+    },
+    {
+      "uri": "spotify:track:0vS3sPgL8BSeDwhcLSadda",
+      "name": "DARKIE CAN RAP",
+      "artist": "Lil Darkie"
+    },
+    {
+      "uri": "spotify:track:68Y3zzmt2XxzheQVGbbJt4",
+      "name": "GENOCIDE",
+      "artist": "Lil Darkie"
+    }
+  ],
+  "Fin/ Varulf/ Piss Baptism/ TBA": []
 }

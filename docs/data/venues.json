@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:43:17.917564+00:00",
+  "generated_at": "2026-09-16T11:32:18.594261+00:00",
   "cities": [
     {
       "name": "San Francisco",
@@ -15,13 +15,6 @@
           "stale": false,
           "show_count": 80,
           "shows": [
-            {
-              "artist": "The Tear Garden (The Legendary Pink Dots & cEvin Key)",
-              "show_date": "2026-09-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-tear-garden-the-legendary-the-independent-tickets/14909683"
-            },
             {
               "artist": "Mustard Service",
               "show_date": "2026-09-17",
@@ -100,6 +93,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/hot-chip-dj-set-the-independent-tickets/15041943"
+            },
+            {
+              "artist": "Chasing Abbey",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/chasing-abbey-the-independent-tickets/14771993"
             }
           ]
         },
@@ -414,7 +414,7 @@
           "cover": "assets/covers/swedish-american-hall-sf.jpg",
           "calendar_url": "https://swedishamericanhall.com/",
           "stale": false,
-          "show_count": 7,
+          "show_count": 8,
           "shows": [
             {
               "artist": "Jacob Alon",
@@ -450,6 +450,13 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/sf-leonard-cohen-festival-song-swedish-american-hall-tickets/14293844"
+            },
+            {
+              "artist": "Elijah Fox Trio Tour ft Myles Martin and Solo Smith",
+              "show_date": "2026-12-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/elijah-fox-trio-tour-ft-swedish-american-hall-tickets/14314314"
             },
             {
               "artist": "Why?",
@@ -684,15 +691,8 @@
           "cover": "assets/covers/neck-of-the-woods-sf.jpg",
           "calendar_url": "https://www.neckofthewoodssf.com/",
           "stale": false,
-          "show_count": 64,
+          "show_count": 66,
           "shows": [
-            {
-              "artist": "Karaoke Tuesday",
-              "show_date": "2026-09-15",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/karaoke-tuesday-neck-of-the-woods-tickets/14227234"
-            },
             {
               "artist": "Open Mic Night",
               "show_date": "2026-09-16",
@@ -755,6 +755,13 @@
               "show_time": "20:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/medscool-wiseacre-little-oil-neck-of-the-woods-tickets/14281784"
+            },
+            {
+              "artist": "Amor De Dios/ Forced To Suffer/ exutoire/ A Life Spent/ Off Tops",
+              "show_date": "2026-09-27",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/amor-de-dios-forced-to-neck-of-the-woods-tickets/14321894"
             },
             {
               "artist": "Triangle Fire/ Choke/ P.O.S./ Ick",
