@@ -1,10 +1,16 @@
 # Venue Playlists
 
-### ▶ Live: https://catalinvoss.github.io/venue-playlists/
+### ▶ Live: https://76tech.github.io/venue-playlists/
 
 A Spotify playlist for every live-music venue in your city – the artists playing
 there soon, **soonest show first**. Discover a band at the top of the list, then
 go catch their set this week.
+
+Originally built by [Catalin Voss](https://github.com/CatalinVoss) for San
+Francisco venues ([original repo](https://github.com/CatalinVoss/venue-playlists)).
+This fork, maintained by [76tech](https://github.com/76tech), swaps the venue
+list to cover Pittsburgh instead – everything else (the build, the site, the
+daily refresh) is unchanged from the original.
 
 A single static page on GitHub Pages, refreshed every day by a GitHub Action. No
 server, no database – generated data is committed back into the repo. Runs for
@@ -25,7 +31,9 @@ GitHub Action (daily cron)
 
 - **Event data:** Ticketmaster Discovery API where a venue is covered, else the
   venue's own calendar page is scraped and cleaned, then a cheap Claude Haiku
-  call extracts `{artist, date, ticket_url}`. Unchanged pages are skipped.
+  call extracts `{artist, date, ticket_url}`. Unchanged pages are skipped. (All
+  current Pittsburgh venues are on Ticketmaster – no scraper/Anthropic key
+  needed today; see [AGENTS.md](AGENTS.md).)
 - **Track selection:** a *new* Spotify app can no longer use top-tracks,
   recommendations, or "This Is" playlists, so tracks are assembled from each
   artist's albums and ranked by per-track popularity.
@@ -52,7 +60,9 @@ GitHub Action (daily cron)
    SPOTIFY_CLIENT_ID=… SPOTIFY_CLIENT_SECRET=… uv run python scripts/mint_refresh_token.py
    ```
 3. **Ticketmaster key** – free, instant at [developer.ticketmaster.com](https://developer.ticketmaster.com).
-4. **Anthropic key** – for the calendar scraper.
+   Required today – every current venue is `source: ticketmaster`.
+4. **Anthropic key** – not currently used (no venue is `source: scrape`
+   today), but kept so a venue can move to the scraper later.
 5. Add all five as repo **Actions secrets**: `SPOTIFY_CLIENT_ID`,
    `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REFRESH_TOKEN`, `TICKETMASTER_API_KEY`,
    `ANTHROPIC_API_KEY`.

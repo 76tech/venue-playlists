@@ -1,8 +1,13 @@
 # AGENTS.md – maintaining Venue Playlists
 
-Live: **https://catalinvoss.github.io/venue-playlists/** · one auto-maintained
+Live: **https://76tech.github.io/venue-playlists/** · one auto-maintained
 Spotify playlist per live-music venue, holding the upcoming acts (soonest first),
 refreshed daily by a GitHub Action. Runs at ~$0.
+
+Fork of [CatalinVoss/venue-playlists](https://github.com/CatalinVoss/venue-playlists)
+(original covers San Francisco); this fork's only change is the venue list –
+`config/venues.yaml` now covers Pittsburgh instead, all via Ticketmaster. The
+build, site, and workflow are otherwise identical to upstream.
 
 This file is the contract for changing this repo. Keep it true: if you change a
 behavior or a choice below, update the matching line here in the same commit.
@@ -56,7 +61,7 @@ reads it as plain files. State that must persist across runs lives in the repo
   covers most mid-size venues; for venues it misses, a generic
   fetch→clean→Haiku-extract path reads the venue's own calendar. The scraper is
   the only thing that costs money (~$1–5/mo) and only runs for `source: scrape`
-  venues (none today – all current venues are on Ticketmaster).
+  venues (none today – all current Pittsburgh venues are on Ticketmaster).
 - **Tracks come from Search, not top-tracks.** Spotify's 2026 dev-mode changes
   removed `top-tracks`, `recommendations`, audio-features, and editorial "This
   Is" playlists for new apps – *and* slapped a punishing per-endpoint quota on
@@ -102,7 +107,7 @@ curl -s "https://app.ticketmaster.com/discovery/v2/venues.json?keyword=THE%20NAM
 ```
 ```yaml
       - name: Venue Name
-        slug: venue-name-sf        # stable; names cover-art file + ids key
+        slug: venue-name-pgh       # stable; names cover-art file + ids key
         source: ticketmaster
         ticketmaster_venue_id: KovZ...
         calendar_url: https://venue.example/   # shown/linked; required for scrape
@@ -118,7 +123,7 @@ this for you):
 # uv run python - , with .env loaded
 import json, httpx, os, pathlib
 from venue_playlists.spotify import get_access_token
-slug = "venue-name-sf"
+slug = "venue-name-pgh"
 ids = json.load(open("config/playlist_ids.json")); pid = ids.pop(slug, None)
 tok = get_access_token(os.environ["SPOTIFY_CLIENT_ID"], os.environ["SPOTIFY_CLIENT_SECRET"], os.environ["SPOTIFY_REFRESH_TOKEN"])
 httpx.delete(f"https://api.spotify.com/v1/playlists/{pid}/followers", headers={"Authorization": f"Bearer {tok}"})
@@ -147,7 +152,7 @@ Stored as repo **Actions secrets** (and locally in a gitignored `.env`):
 | `SPOTIFY_CLIENT_ID` / `SPOTIFY_CLIENT_SECRET` | App credentials (Authorization Code flow). |
 | `SPOTIFY_REFRESH_TOKEN` | Long-lived; the cron exchanges it for a 1h access token each run. |
 | `TICKETMASTER_API_KEY` | Discovery API (the Consumer Key). |
-| `ANTHROPIC_API_KEY` | Optional – only `source: scrape` venues need it (`claude-haiku-4-5`). |
+| `ANTHROPIC_API_KEY` | Optional – only `source: scrape` venues need it (`claude-haiku-4-5`); none today. |
 
 The broadcasting Spotify account **must keep Spotify Premium** (dev-mode
 requirement) and the app stays in **development mode** (no quota review needed).
@@ -166,11 +171,12 @@ requirement) and the app stays in **development mode** (no quota review needed).
   the account password changes, the app is revoked, or the requested scopes
   change. `SCOPES` in `spotify.py` already includes `ugc-image-upload` so adding
   custom covers later won't force a re-mint.
-- **Pushing from this box needs SSH:** a global
-  `url.https://github.com/.insteadOf git@github.com:` rewrite plus a
-  workflow-scope-less `gh` token means HTTPS pushes of `.github/workflows/` are
-  rejected. Use the `ssh://git@github.com/CatalinVoss/venue-playlists.git` remote
-  form (already set on `origin`).
+- **Pushing `.github/workflows/` changes can need SSH:** if your machine has a
+  global `url.https://github.com/.insteadOf git@github.com:` rewrite plus a
+  workflow-scope-less `gh` token, HTTPS pushes touching `.github/workflows/`
+  are rejected. If you hit that, switch `origin` to the
+  `ssh://git@github.com/76tech/venue-playlists.git` form. (Carried over from
+  the upstream maintainer's setup – may not apply to yours.)
 - **Cron is best-effort:** scheduled runs can be delayed/dropped at peak (hence
   the off-the-hour `06:17`), and a public-repo schedule auto-disables after 60
   days of no activity – the daily data commit keeps the clock reset.

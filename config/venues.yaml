@@ -16,53 +16,35 @@ defaults:
   lookahead_days: 120
 
 cities:
-  - name: San Francisco
-    timezone: America/Los_Angeles
+  - name: Pittsburgh
+    timezone: America/New_York
     venues:
-      - name: The Independent
-        slug: the-independent-sf
+      - name: Mr. Smalls Theatre
+        slug: mr-smalls-theatre-pgh
         source: ticketmaster
-        ticketmaster_venue_id: KovZpZAAl7AA
-        calendar_url: https://www.theindependentsf.com/
+        ticketmaster_venue_id: KovZpZAAd7tA
+        calendar_url: https://mrsmalls.com/listing/upcoming-theatre-events/
 
-      - name: Rickshaw Stop
-        slug: rickshaw-stop-sf
+      - name: Thunderbird Café & Music Hall
+        slug: thunderbird-music-hall-pgh
         source: ticketmaster
-        ticketmaster_venue_id: KovZpZAa1JaA
-        calendar_url: https://rickshawstop.com/calendar/
+        ticketmaster_venue_id: KovZpZA1edEA
+        calendar_url: https://thunderbirdmusichall.com/shows/
 
-      - name: The Chapel
-        slug: the-chapel-sf
+      - name: Club Cafe
+        slug: club-cafe-pgh
         source: ticketmaster
-        ticketmaster_venue_id: KovZ917AOMf
-        calendar_url: https://thechapelsf.com/music/
+        ticketmaster_venue_id: KovZpZAaI6lA
+        calendar_url: https://www.clubcafelive.com/upcoming-shows
 
-      - name: Great American Music Hall
-        slug: great-american-music-hall-sf
+      - name: Roxian Theatre
+        slug: roxian-theatre-pgh
         source: ticketmaster
-        ticketmaster_venue_id: KovZpZAJk7aA
-        calendar_url: https://gamh.com/calendar/
+        ticketmaster_venue_id: KovZ917Ax13
+        calendar_url: https://www.roxiantheatre.com/
 
-      - name: Swedish American Hall
-        slug: swedish-american-hall-sf
+      - name: Spirit Hall
+        slug: spirit-hall-pgh
         source: ticketmaster
-        ticketmaster_venue_id: KovZ917ACQ0
-        calendar_url: https://swedishamericanhall.com/
-
-      - name: Bimbo's 365 Club
-        slug: bimbos-365-club-sf
-        source: ticketmaster
-        ticketmaster_venue_id: KovZpZAJeFvA
-        calendar_url: https://bimbos365club.com/
-
-      - name: Brick & Mortar Music Hall
-        slug: brick-and-mortar-sf
-        source: ticketmaster
-        ticketmaster_venue_id: KovZpZAanJFA
-        calendar_url: https://brickandmortarmusic.com/
-
-      - name: Neck of the Woods
-        slug: neck-of-the-woods-sf
-        source: ticketmaster
-        ticketmaster_venue_id: KovZ917AYqw
-        calendar_url: https://www.neckofthewoodssf.com/
+        ticketmaster_venue_id: KovZ917A_J7
+        calendar_url: https://www.spiritpgh.com/calendar
