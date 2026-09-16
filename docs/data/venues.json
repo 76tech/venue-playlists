@@ -1,9 +1,459 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-09-16T15:45:30.845143+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
-      "venues": []
+      "venues": [
+        {
+          "name": "Mr. Smalls Theatre",
+          "slug": "mr-smalls-theatre-pgh",
+          "city": "Pittsburgh",
+          "playlist_id": "6zguLyi743ZBabWhrU6uyq",
+          "playlist_url": "https://open.spotify.com/playlist/6zguLyi743ZBabWhrU6uyq",
+          "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
+          "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
+          "stale": false,
+          "show_count": 39,
+          "shows": [
+            {
+              "artist": "Donovan Woods",
+              "show_date": "2026-09-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/brian-fallon-the-painkillers-mr-smalls-theatre-tickets/14191534"
+            },
+            {
+              "artist": "Frank Turner & the Sleeping Souls",
+              "show_date": "2026-09-19",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/frank-turner-the-sleeping-mr-smalls-theatre-tickets/14908823"
+            },
+            {
+              "artist": "Nation of Language",
+              "show_date": "2026-09-21",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Anika"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/nation-of-language-anika-mr-smalls-theatre-tickets/14757733"
+            },
+            {
+              "artist": "GoldFord with Special Guest Ian Elliott",
+              "show_date": "2026-09-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/goldford-ian-elliott-mr-smalls-theatre-tickets/14198924"
+            },
+            {
+              "artist": "Psychedelic Porn Crumpets",
+              "show_date": "2026-09-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/psychedelic-porn-crumpets-strange-lot-mr-smalls-theatre-tickets/14957313"
+            },
+            {
+              "artist": "Ben Harper & The Innocent Criminals",
+              "show_date": "2026-09-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ben-harper-the-innocent-mr-smalls-theatre-tickets/14123944"
+            },
+            {
+              "artist": "Bear Ghost Tiny Hitman Tour 2026 with  Sarah and the Safe Word and Spaceman Bob",
+              "show_date": "2026-09-27",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bear-ghost-sarah-and-the-mr-smalls-theatre-tickets/14948463"
+            },
+            {
+              "artist": "Gogol Bordello",
+              "show_date": "2026-09-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tf-"
+            },
+            {
+              "artist": "Gogol Bordello",
+              "show_date": "2026-09-28",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "That Handsome Devil",
+                "Pons"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/gogol-bordello-that-handsome-devil-mr-smalls-theatre-tickets/14915083"
+            },
+            {
+              "artist": "Mariachi El Bronx",
+              "show_date": "2026-09-29",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Bedouin Soundclash"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/mariachi-el-bronx-bedouin-soundclash-mr-smalls-theatre-tickets/14249124"
+            },
+            {
+              "artist": "Bad Nerves   with Special Guests Sunny Daze & The Weathermen and Glass Caps",
+              "show_date": "2026-09-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bad-nerves-sunny-mr-smalls-theatre-tickets/14204294"
+            },
+            {
+              "artist": "The Linda Lindas",
+              "show_date": "2026-10-02",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Deux Visages"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3Jp"
+            }
+          ]
+        },
+        {
+          "name": "Thunderbird Caf\u00e9 & Music Hall",
+          "slug": "thunderbird-music-hall-pgh",
+          "city": "Pittsburgh",
+          "playlist_id": "3OsvtwOgK5tCNlFQUQF6uU",
+          "playlist_url": "https://open.spotify.com/playlist/3OsvtwOgK5tCNlFQUQF6uU",
+          "cover": null,
+          "calendar_url": "https://thunderbirdmusichall.com/shows/",
+          "stale": true,
+          "show_count": 0,
+          "shows": []
+        },
+        {
+          "name": "Club Cafe",
+          "slug": "club-cafe-pgh",
+          "city": "Pittsburgh",
+          "playlist_id": "0axIRNtzpZQ2tr4g873eHY",
+          "playlist_url": "https://open.spotify.com/playlist/0axIRNtzpZQ2tr4g873eHY",
+          "cover": "assets/covers/club-cafe-pgh.jpg",
+          "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
+          "stale": false,
+          "show_count": 31,
+          "shows": [
+            {
+              "artist": "Cherokee Social w/ Mother of Earl & Moontown",
+              "show_date": "2026-09-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/cherokee-social-w-mother-of-club-cafe-tickets/14274774"
+            },
+            {
+              "artist": "Addison Johnson",
+              "show_date": "2026-09-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/addison-johnson-club-cafe-tickets/14285854"
+            },
+            {
+              "artist": "Soda Blonde",
+              "show_date": "2026-09-18",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/soda-blonde-wsg-halloway-club-cafe-tickets/14185274"
+            },
+            {
+              "artist": "Jammy Buffet",
+              "show_date": "2026-09-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jammy-buffet-club-cafe-tickets/14932443"
+            },
+            {
+              "artist": "The Inspector Cluzo",
+              "show_date": "2026-09-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-inspector-cluzo-club-cafe-tickets/14841333"
+            },
+            {
+              "artist": "Joey Adams w/ Trey Johnston & Noah Collins",
+              "show_date": "2026-09-25",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/joey-adams-w-trey-johnston-club-cafe-tickets/15028933"
+            },
+            {
+              "artist": "Horse Feathers",
+              "show_date": "2026-09-26",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/horse-feathers-wsg-the-hackles-club-cafe-tickets/14952043"
+            },
+            {
+              "artist": "Jenny Owen Youngs and Northcote",
+              "show_date": "2026-10-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jenny-owen-youngs-and-northcote-club-cafe-tickets/14901343"
+            },
+            {
+              "artist": "Bombargo",
+              "show_date": "2026-10-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bombargo-club-cafe-tickets/14982953"
+            },
+            {
+              "artist": "Nicky Diamonds",
+              "show_date": "2026-10-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/nicky-diamonds-club-cafe-tickets/14202194"
+            },
+            {
+              "artist": "Ian McConnell w/ Cherokee Social",
+              "show_date": "2026-10-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ian-mcconnell-w-cherokee-social-club-cafe-tickets/14983963"
+            },
+            {
+              "artist": "WYEP Pesents: The Laurel Lowlifes w/ Blooming Trio & Becks!",
+              "show_date": "2026-10-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/wyep-pesents-the-laurel-lowlifes-club-cafe-tickets/15049003"
+            }
+          ]
+        },
+        {
+          "name": "Roxian Theatre",
+          "slug": "roxian-theatre-pgh",
+          "city": "Pittsburgh",
+          "playlist_id": "1R3vtHOLRYxAyIVG1rltzv",
+          "playlist_url": "https://open.spotify.com/playlist/1R3vtHOLRYxAyIVG1rltzv",
+          "cover": "assets/covers/roxian-theatre-pgh.jpg",
+          "calendar_url": "https://www.roxiantheatre.com/",
+          "stale": false,
+          "show_count": 41,
+          "shows": [
+            {
+              "artist": "Chad Gray",
+              "show_date": "2026-09-17",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Butcher Babies",
+                "Devil's Cut"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/chad-gray-30-years-of-madnesss-mckees-rocks-pennsylvania-09-17-2026/event/160064C4F6B684E6"
+            },
+            {
+              "artist": "Lakeview",
+              "show_date": "2026-09-18",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Dylan Schneider",
+                "Jason Cross"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/lakeview-hometown-throwdown-ii-mckees-rocks-pennsylvania-09-18-2026/event/160064B5F8D3F80C"
+            },
+            {
+              "artist": "The Home Team",
+              "show_date": "2026-09-19",
+              "show_time": "18:30:00",
+              "support_acts": [
+                "Heart Attack Man",
+                "Unity TX"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/the-home-team-the-crucible-of-mckees-rocks-pennsylvania-09-19-2026/event/160064BE0967D790"
+            },
+            {
+              "artist": "Scene Queen",
+              "show_date": "2026-09-20",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "WARGASM",
+                "Bailey Spinn"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/scene-queen-metalicious-mckees-rocks-pennsylvania-09-20-2026/event/160064C4E47E4DCD"
+            },
+            {
+              "artist": "Igorrr",
+              "show_date": "2026-09-21",
+              "show_time": "18:30:00",
+              "support_acts": [
+                "Secret Chiefs 3",
+                "Violent Magic Orchestra"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/igorrr-north-american-tour-2026-mckees-rocks-pennsylvania-09-21-2026/event/160064AEF9E2EA88"
+            },
+            {
+              "artist": "Phantogram",
+              "show_date": "2026-09-24",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/phantogram-mckees-rocks-pennsylvania-09-24-2026/event/160064AEDD79CE6F"
+            },
+            {
+              "artist": "MICO",
+              "show_date": "2026-09-25",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Will Linley"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/mico-running-from-a-feeling-tour-mckees-rocks-pennsylvania-09-25-2026/event/160064AC117DFB47"
+            },
+            {
+              "artist": "Altin G\u00fcn",
+              "show_date": "2026-09-26",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Alex Maas"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/altin-gun-north-america-tour-2026-mckees-rocks-pennsylvania-09-26-2026/event/1600645AD09BE66E"
+            },
+            {
+              "artist": "Buffalo Traffic Jam",
+              "show_date": "2026-09-27",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Phil Kane",
+                "Lydia Maes"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-mckees-rocks-pennsylvania-09-27-2026/event/160064A7C5DDD6E5"
+            },
+            {
+              "artist": "Public Image Ltd",
+              "show_date": "2026-09-29",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Plague Vendor"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/public-image-ltd-mckees-rocks-pennsylvania-09-29-2026/event/1600646ACE77A957"
+            },
+            {
+              "artist": "Michael Franti",
+              "show_date": "2026-10-02",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Wheeland Brothers"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/michael-franti-trio-heartstrings-dynamite-mckees-rocks-pennsylvania-10-02-2026/event/160064EFDB1EAE3F"
+            },
+            {
+              "artist": "Paul Oakenfold",
+              "show_date": "2026-10-03",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Crystal Method",
+                "Liquid Todd"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/paul-oakenfold-the-crystal-method-mission-mckees-rocks-pennsylvania-10-03-2026/event/160064F5A958650A"
+            }
+          ]
+        },
+        {
+          "name": "Spirit Hall",
+          "slug": "spirit-hall-pgh",
+          "city": "Pittsburgh",
+          "playlist_id": "6R44owsl1DaooKE278VDDD",
+          "playlist_url": "https://open.spotify.com/playlist/6R44owsl1DaooKE278VDDD",
+          "cover": "assets/covers/spirit-hall-pgh.jpg",
+          "calendar_url": "https://www.spiritpgh.com/calendar",
+          "stale": false,
+          "show_count": 13,
+          "shows": [
+            {
+              "artist": "Gurriers",
+              "show_date": "2026-09-17",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/gurriers-pittsburgh-pennsylvania-09-17-2026/event/160064BAAA126C5A"
+            },
+            {
+              "artist": "Lolo",
+              "show_date": "2026-09-22",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/ll-god-forbid-a-girl-goes-pittsburgh-pennsylvania-09-22-2026/event/160064ADB5F89BBE"
+            },
+            {
+              "artist": "Peaches",
+              "show_date": "2026-09-23",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/peaches-no-lube-so-rude-tour-pittsburgh-pennsylvania-09-23-2026/event/160064C8A2146860"
+            },
+            {
+              "artist": "Improvement Movement",
+              "show_date": "2026-10-04",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "The Point."
+              ],
+              "ticket_url": "https://www.ticketmaster.com/improvement-movement-your-perfect-real-live-pittsburgh-pennsylvania-10-04-2026/event/160064EDA2C55531"
+            },
+            {
+              "artist": "AJJ",
+              "show_date": "2026-10-09",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Greet Death"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/ajj-pittsburgh-pennsylvania-10-09-2026/event/16006504D982C8D6"
+            },
+            {
+              "artist": "Oh He Dead",
+              "show_date": "2026-10-20",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/oh-he-dead-21-pittsburgh-pennsylvania-10-20-2026/event/1600650A98C154EB"
+            },
+            {
+              "artist": "Beauty School Dropout",
+              "show_date": "2026-10-22",
+              "show_time": "18:30:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/beauty-school-dropout-pittsburgh-pennsylvania-10-22-2026/event/1600650A95395096"
+            },
+            {
+              "artist": "Chris Webby",
+              "show_date": "2026-11-05",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Dizzy Wright",
+                "Lily Fangz"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/chris-webby-pittsburgh-pennsylvania-11-05-2026/event/16006519C108B03F"
+            },
+            {
+              "artist": "George Clanton",
+              "show_date": "2026-11-06",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Ryan Hemsworth"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/george-clanton-pittsburgh-pennsylvania-11-06-2026/event/16006503D692ABB3"
+            },
+            {
+              "artist": "Ethan Regan",
+              "show_date": "2026-11-07",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Lily Kershaw"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/ethan-regan-young-regan-tour-pittsburgh-pennsylvania-11-07-2026/event/160064C1D26BCFD8"
+            },
+            {
+              "artist": "High Vis",
+              "show_date": "2026-11-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/high-vis-pittsburgh-pennsylvania-11-10-2026/event/16006528C00F98F4"
+            },
+            {
+              "artist": "Little Image",
+              "show_date": "2026-11-11",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/little-image-pittsburgh-pennsylvania-11-11-2026/event/1600652BCE65908A"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
