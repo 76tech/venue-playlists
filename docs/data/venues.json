@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:45:30.845143+00:00",
+  "generated_at": "2026-09-17T11:45:40.718671+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "Donovan Woods",
-              "show_date": "2026-09-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/brian-fallon-the-painkillers-mr-smalls-theatre-tickets/14191534"
-            },
             {
               "artist": "Frank Turner & the Sleeping Souls",
               "show_date": "2026-09-19",
@@ -107,6 +100,13 @@
                 "Deux Visages"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3Jp"
+            },
+            {
+              "artist": "The Linda Lindas with Special Guests Deux Visages and Colatura",
+              "show_date": "2026-10-02",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-linda-lindas-deux-visages-mr-smalls-theatre-tickets/14250334"
             }
           ]
         },
@@ -131,15 +131,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 31,
+          "show_count": 30,
           "shows": [
-            {
-              "artist": "Cherokee Social w/ Mother of Earl & Moontown",
-              "show_date": "2026-09-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cherokee-social-w-mother-of-club-cafe-tickets/14274774"
-            },
             {
               "artist": "Addison Johnson",
               "show_date": "2026-09-17",
@@ -216,6 +209,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/wyep-pesents-the-laurel-lowlifes-club-cafe-tickets/15049003"
+            },
+            {
+              "artist": "Kara Frazier, Emily Lehr & the Foxglove Fellows, and Van Gilder",
+              "show_date": "2026-10-18",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kara-frazier-emily-lehr-club-cafe-tickets/14300654"
             }
           ]
         },
