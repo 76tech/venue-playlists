@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:45:40.718671+00:00",
+  "generated_at": "2026-09-18T11:18:49.811039+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -131,15 +131,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 30,
+          "show_count": 29,
           "shows": [
-            {
-              "artist": "Addison Johnson",
-              "show_date": "2026-09-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/addison-johnson-club-cafe-tickets/14285854"
-            },
             {
               "artist": "Soda Blonde",
               "show_date": "2026-09-18",
@@ -216,6 +209,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/kara-frazier-emily-lehr-club-cafe-tickets/14300654"
+            },
+            {
+              "artist": "Joe Stamm Band w/ Josh Travis",
+              "show_date": "2026-10-23",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/joe-stamm-band-w-josh-club-cafe-tickets/15048993"
             }
           ]
         },
@@ -228,18 +228,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 41,
+          "show_count": 40,
           "shows": [
-            {
-              "artist": "Chad Gray",
-              "show_date": "2026-09-17",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "Butcher Babies",
-                "Devil's Cut"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/chad-gray-30-years-of-madnesss-mckees-rocks-pennsylvania-09-17-2026/event/160064C4F6B684E6"
-            },
             {
               "artist": "Lakeview",
               "show_date": "2026-09-18",
@@ -342,6 +332,15 @@
                 "Liquid Todd"
               ],
               "ticket_url": "https://www.ticketmaster.com/paul-oakenfold-the-crystal-method-mission-mckees-rocks-pennsylvania-10-03-2026/event/160064F5A958650A"
+            },
+            {
+              "artist": "Benjamin Tod",
+              "show_date": "2026-10-04",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Candi Jenkins"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/benjamin-tod-lost-dog-street-band-mckees-rocks-pennsylvania-10-04-2026/event/1600636B0CAF1C5C"
             }
           ]
         },
@@ -354,15 +353,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 13,
+          "show_count": 12,
           "shows": [
-            {
-              "artist": "Gurriers",
-              "show_date": "2026-09-17",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/gurriers-pittsburgh-pennsylvania-09-17-2026/event/160064BAAA126C5A"
-            },
             {
               "artist": "Lolo",
               "show_date": "2026-09-22",
@@ -450,6 +442,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/little-image-pittsburgh-pennsylvania-11-11-2026/event/1600652BCE65908A"
+            },
+            {
+              "artist": "Emo Nite",
+              "show_date": "2026-11-13",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/emo-nite-pittsburgh-pennsylvania-11-13-2026/event/1600652BCBBA8C8C"
             }
           ]
         }
