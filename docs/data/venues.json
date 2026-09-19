@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:18:49.811039+00:00",
+  "generated_at": "2026-09-19T11:02:57.239384+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -131,15 +131,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 29,
+          "show_count": 28,
           "shows": [
-            {
-              "artist": "Soda Blonde",
-              "show_date": "2026-09-18",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/soda-blonde-wsg-halloway-club-cafe-tickets/14185274"
-            },
             {
               "artist": "Jammy Buffet",
               "show_date": "2026-09-23",
@@ -216,6 +209,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/joe-stamm-band-w-josh-club-cafe-tickets/15048993"
+            },
+            {
+              "artist": "Olivia and the Lovers w/ Britt & Cam",
+              "show_date": "2026-10-24",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/olivia-and-the-lovers-w-club-cafe-tickets/14295454"
             }
           ]
         },
@@ -228,18 +228,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 40,
+          "show_count": 39,
           "shows": [
-            {
-              "artist": "Lakeview",
-              "show_date": "2026-09-18",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "Dylan Schneider",
-                "Jason Cross"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/lakeview-hometown-throwdown-ii-mckees-rocks-pennsylvania-09-18-2026/event/160064B5F8D3F80C"
-            },
             {
               "artist": "The Home Team",
               "show_date": "2026-09-19",
@@ -341,6 +331,16 @@
                 "Candi Jenkins"
               ],
               "ticket_url": "https://www.ticketmaster.com/benjamin-tod-lost-dog-street-band-mckees-rocks-pennsylvania-10-04-2026/event/1600636B0CAF1C5C"
+            },
+            {
+              "artist": "Soccer Mommy",
+              "show_date": "2026-10-07",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Snail Mail",
+                "Brennan Wedl"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/wyep-presents-soccer-mommy-snail-mail-mckees-rocks-pennsylvania-10-07-2026/event/160064BB25E3F812"
             }
           ]
         },
