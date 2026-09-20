@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:02:57.239384+00:00",
+  "generated_at": "2026-09-20T11:27:54.636570+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 38,
+          "show_count": 37,
           "shows": [
-            {
-              "artist": "Frank Turner & the Sleeping Souls",
-              "show_date": "2026-09-19",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/frank-turner-the-sleeping-mr-smalls-theatre-tickets/14908823"
-            },
             {
               "artist": "Nation of Language",
               "show_date": "2026-09-21",
@@ -107,6 +100,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-linda-lindas-deux-visages-mr-smalls-theatre-tickets/14250334"
+            },
+            {
+              "artist": "glaive",
+              "show_date": "2026-10-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/glaive-tiffany-day-kurtains-mr-smalls-theatre-tickets/14905493"
             }
           ]
         },
@@ -228,18 +228,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 39,
+          "show_count": 38,
           "shows": [
-            {
-              "artist": "The Home Team",
-              "show_date": "2026-09-19",
-              "show_time": "18:30:00",
-              "support_acts": [
-                "Heart Attack Man",
-                "Unity TX"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/the-home-team-the-crucible-of-mckees-rocks-pennsylvania-09-19-2026/event/160064BE0967D790"
-            },
             {
               "artist": "Scene Queen",
               "show_date": "2026-09-20",
@@ -341,6 +331,15 @@
                 "Brennan Wedl"
               ],
               "ticket_url": "https://www.ticketmaster.com/wyep-presents-soccer-mommy-snail-mail-mckees-rocks-pennsylvania-10-07-2026/event/160064BB25E3F812"
+            },
+            {
+              "artist": "Vitamin String Quartet",
+              "show_date": "2026-10-08",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Girl Named Tom"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/vitamin-string-quartet-girl-named-tom-mckees-rocks-pennsylvania-10-08-2026/event/16006507D4DEE414"
             }
           ]
         },
