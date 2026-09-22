@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:52:26.944753+00:00",
+  "generated_at": "2026-09-22T11:42:01.470817+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "Nation of Language",
-              "show_date": "2026-09-21",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Anika"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/nation-of-language-anika-mr-smalls-theatre-tickets/14757733"
-            },
             {
               "artist": "GoldFord with Special Guest Ian Elliott",
               "show_date": "2026-09-24",
@@ -34,7 +25,7 @@
             {
               "artist": "Psychedelic Porn Crumpets",
               "show_date": "2026-09-25",
-              "show_time": "20:00:00",
+              "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/psychedelic-porn-crumpets-strange-lot-mr-smalls-theatre-tickets/14957313"
             },
@@ -107,6 +98,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/glaive-tiffany-day-kurtains-mr-smalls-theatre-tickets/14905493"
+            },
+            {
+              "artist": "Medium Build",
+              "show_date": "2026-10-05",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Ken Yates"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PV49"
             }
           ]
         },
@@ -228,18 +228,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 37,
+          "show_count": 36,
           "shows": [
-            {
-              "artist": "Igorrr",
-              "show_date": "2026-09-21",
-              "show_time": "18:30:00",
-              "support_acts": [
-                "Secret Chiefs 3",
-                "Violent Magic Orchestra"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/igorrr-north-american-tour-2026-mckees-rocks-pennsylvania-09-21-2026/event/160064AEF9E2EA88"
-            },
             {
               "artist": "Phantogram",
               "show_date": "2026-09-24",
@@ -337,6 +327,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/chief-keef-mckees-rocks-pennsylvania-10-12-2026/event/1600651BD13ED58A"
+            },
+            {
+              "artist": "Christone \"Kingfish\" Ingram",
+              "show_date": "2026-10-14",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/christone-kingfish-ingram-the-hard-road-mckees-rocks-pennsylvania-10-14-2026/event/160064CF0E9A3552"
             }
           ]
         },
