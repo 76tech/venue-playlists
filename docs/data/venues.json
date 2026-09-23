@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:42:01.470817+00:00",
+  "generated_at": "2026-09-23T11:40:57.053638+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -346,15 +346,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 12,
+          "show_count": 11,
           "shows": [
-            {
-              "artist": "Lolo",
-              "show_date": "2026-09-22",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/ll-god-forbid-a-girl-goes-pittsburgh-pennsylvania-09-22-2026/event/160064ADB5F89BBE"
-            },
             {
               "artist": "Peaches",
               "show_date": "2026-09-23",
