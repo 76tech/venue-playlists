@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:49:25.873639+00:00",
+  "generated_at": "2026-09-25T11:53:29.784633+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 35,
           "shows": [
-            {
-              "artist": "GoldFord with Special Guest Ian Elliott",
-              "show_date": "2026-09-24",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/goldford-ian-elliott-mr-smalls-theatre-tickets/14198924"
-            },
             {
               "artist": "Psychedelic Porn Crumpets",
               "show_date": "2026-09-25",
@@ -107,6 +100,15 @@
                 "Ken Yates"
               ],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PV49"
+            },
+            {
+              "artist": "Medium Build",
+              "show_date": "2026-10-05",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Ken Yates"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/medium-build-the-mr-smalls-theatre-tickets/14200424"
             }
           ]
         },
@@ -228,15 +230,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 36,
+          "show_count": 35,
           "shows": [
-            {
-              "artist": "Phantogram",
-              "show_date": "2026-09-24",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/phantogram-mckees-rocks-pennsylvania-09-24-2026/event/160064AEDD79CE6F"
-            },
             {
               "artist": "MICO",
               "show_date": "2026-09-25",
@@ -334,6 +329,17 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/christone-kingfish-ingram-the-hard-road-mckees-rocks-pennsylvania-10-14-2026/event/160064CF0E9A3552"
+            },
+            {
+              "artist": "Arm's Length",
+              "show_date": "2026-10-15",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Holding Absence",
+                "Bloom",
+                "House & Home"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/arms-length-holding-absence-north-american-mckees-rocks-pennsylvania-10-15-2026/event/160064CFF8CDF6E1"
             }
           ]
         },
