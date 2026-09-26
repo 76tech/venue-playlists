@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:53:29.784633+00:00",
+  "generated_at": "2026-09-26T11:28:11.830890+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 35,
+          "show_count": 34,
           "shows": [
-            {
-              "artist": "Psychedelic Porn Crumpets",
-              "show_date": "2026-09-25",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/psychedelic-porn-crumpets-strange-lot-mr-smalls-theatre-tickets/14957313"
-            },
             {
               "artist": "Ben Harper & The Innocent Criminals",
               "show_date": "2026-09-26",
@@ -90,7 +83,7 @@
               "show_date": "2026-10-03",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/glaive-tiffany-day-kurtains-mr-smalls-theatre-tickets/14905493"
+              "ticket_url": "https://www.ticketweb.com/event/glaive-tiffany-day-mr-smalls-theatre-tickets/14905493"
             },
             {
               "artist": "Medium Build",
@@ -109,6 +102,13 @@
                 "Ken Yates"
               ],
               "ticket_url": "https://www.ticketweb.com/event/medium-build-the-mr-smalls-theatre-tickets/14200424"
+            },
+            {
+              "artist": "Mo Lowda & The Humble",
+              "show_date": "2026-10-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/mo-lowda-the-humble-mr-smalls-theatre-tickets/14778033"
             }
           ]
         },
@@ -133,15 +133,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Joey Adams w/ Trey Johnston & Noah Collins",
-              "show_date": "2026-09-25",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/joey-adams-w-trey-johnston-club-cafe-tickets/15028933"
-            },
             {
               "artist": "Horse Feathers",
               "show_date": "2026-09-26",
@@ -218,6 +211,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/little-barrie-norside-club-cafe-tickets/14295564"
+            },
+            {
+              "artist": "Father Frank & Under The Canopy",
+              "show_date": "2026-11-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/father-frank-under-the-club-cafe-tickets/14206074"
             }
           ]
         },
@@ -230,17 +230,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 35,
+          "show_count": 34,
           "shows": [
-            {
-              "artist": "MICO",
-              "show_date": "2026-09-25",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Will Linley"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/mico-running-from-a-feeling-tour-mckees-rocks-pennsylvania-09-25-2026/event/160064AC117DFB47"
-            },
             {
               "artist": "Altin G\u00fcn",
               "show_date": "2026-09-26",
@@ -340,6 +331,15 @@
                 "House & Home"
               ],
               "ticket_url": "https://www.ticketmaster.com/arms-length-holding-absence-north-american-mckees-rocks-pennsylvania-10-15-2026/event/160064CFF8CDF6E1"
+            },
+            {
+              "artist": "Wheeler Walker Jr.",
+              "show_date": "2026-10-16",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Colton Bowlin"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-mckees-rocks-pennsylvania-10-16-2026/event/160064C3EC51129D"
             }
           ]
         },
