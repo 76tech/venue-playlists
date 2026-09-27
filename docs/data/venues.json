@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:28:11.830890+00:00",
+  "generated_at": "2026-09-27T12:05:53.723948+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 34,
+          "show_count": 33,
           "shows": [
-            {
-              "artist": "Ben Harper & The Innocent Criminals",
-              "show_date": "2026-09-26",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ben-harper-the-innocent-mr-smalls-theatre-tickets/14123944"
-            },
             {
               "artist": "Bear Ghost Tiny Hitman Tour 2026 with  Sarah and the Safe Word and Spaceman Bob",
               "show_date": "2026-09-27",
@@ -109,6 +102,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/mo-lowda-the-humble-mr-smalls-theatre-tickets/14778033"
+            },
+            {
+              "artist": "Brigitte Calls Me Baby",
+              "show_date": "2026-10-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZZeA"
             }
           ]
         },
@@ -133,15 +133,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Horse Feathers",
-              "show_date": "2026-09-26",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/horse-feathers-wsg-the-hackles-club-cafe-tickets/14952043"
-            },
             {
               "artist": "Jenny Owen Youngs and Northcote",
               "show_date": "2026-10-01",
@@ -218,6 +211,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/father-frank-under-the-club-cafe-tickets/14206074"
+            },
+            {
+              "artist": "Colby T. Helms",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/colby-t-helms-club-cafe-tickets/15040553"
             }
           ]
         },
@@ -230,17 +230,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 34,
+          "show_count": 33,
           "shows": [
-            {
-              "artist": "Altin G\u00fcn",
-              "show_date": "2026-09-26",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Alex Maas"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/altin-gun-north-america-tour-2026-mckees-rocks-pennsylvania-09-26-2026/event/1600645AD09BE66E"
-            },
             {
               "artist": "Buffalo Traffic Jam",
               "show_date": "2026-09-27",
@@ -340,6 +331,17 @@
                 "Colton Bowlin"
               ],
               "ticket_url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-mckees-rocks-pennsylvania-10-16-2026/event/160064C3EC51129D"
+            },
+            {
+              "artist": "Earl Sweatshirt",
+              "show_date": "2026-10-18",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "MIKE",
+                "Surf Gang",
+                "Anysia Kym"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-mckees-rocks-pennsylvania-10-18-2026/event/16006466D2DFD9FC"
             }
           ]
         },
