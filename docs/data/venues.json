@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:05:53.723948+00:00",
+  "generated_at": "2026-09-28T13:59:48.282707+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 33,
+          "show_count": 32,
           "shows": [
-            {
-              "artist": "Bear Ghost Tiny Hitman Tour 2026 with  Sarah and the Safe Word and Spaceman Bob",
-              "show_date": "2026-09-27",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bear-ghost-sarah-and-the-mr-smalls-theatre-tickets/14948463"
-            },
             {
               "artist": "Gogol Bordello",
               "show_date": "2026-09-28",
@@ -109,6 +102,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZZeA"
+            },
+            {
+              "artist": "Brigitte Calls Me Baby",
+              "show_date": "2026-10-16",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Common People"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/brigitte-calls-me-baby-common-mr-smalls-theatre-tickets/14243224"
             }
           ]
         },
@@ -143,11 +145,11 @@
               "ticket_url": "https://www.ticketweb.com/event/jenny-owen-youngs-and-northcote-club-cafe-tickets/14901343"
             },
             {
-              "artist": "Bombargo",
+              "artist": "Bombargo wsg/ Jewel House",
               "show_date": "2026-10-02",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bombargo-club-cafe-tickets/14982953"
+              "ticket_url": "https://www.ticketweb.com/event/bombargo-wsg-jewel-house-club-cafe-tickets/14982953"
             },
             {
               "artist": "Nicky Diamonds",
@@ -230,18 +232,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 33,
+          "show_count": 32,
           "shows": [
-            {
-              "artist": "Buffalo Traffic Jam",
-              "show_date": "2026-09-27",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Phil Kane",
-                "Lydia Maes"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-mckees-rocks-pennsylvania-09-27-2026/event/160064A7C5DDD6E5"
-            },
             {
               "artist": "Public Image Ltd",
               "show_date": "2026-09-29",
@@ -342,6 +334,15 @@
                 "Anysia Kym"
               ],
               "ticket_url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-mckees-rocks-pennsylvania-10-18-2026/event/16006466D2DFD9FC"
+            },
+            {
+              "artist": "Candlebox",
+              "show_date": "2026-10-22",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Sponge"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/candlebox-cant-quit-you-tour-fall-mckees-rocks-pennsylvania-10-22-2026/event/160064E9D3677F32"
             }
           ]
         },
