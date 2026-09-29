@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:59:48.282707+00:00",
+  "generated_at": "2026-09-29T12:56:41.181551+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,25 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 32,
+          "show_count": 30,
           "shows": [
-            {
-              "artist": "Gogol Bordello",
-              "show_date": "2026-09-28",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A70tf-"
-            },
-            {
-              "artist": "Gogol Bordello",
-              "show_date": "2026-09-28",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "That Handsome Devil",
-                "Pons"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/gogol-bordello-that-handsome-devil-mr-smalls-theatre-tickets/14915083"
-            },
             {
               "artist": "Mariachi El Bronx",
               "show_date": "2026-09-29",
@@ -111,6 +94,22 @@
                 "Common People"
               ],
               "ticket_url": "https://www.ticketweb.com/event/brigitte-calls-me-baby-common-mr-smalls-theatre-tickets/14243224"
+            },
+            {
+              "artist": "Dana and Alden",
+              "show_date": "2026-10-17",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/dana-and-alden-alex-amen-mr-smalls-theatre-tickets/14956583"
+            },
+            {
+              "artist": "Low Cut Connie",
+              "show_date": "2026-10-22",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "Brian Dunne"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/low-cut-connie-brian-dunne-mr-smalls-theatre-tickets/14844433"
             }
           ]
         },
@@ -135,7 +134,7 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 24,
+          "show_count": 25,
           "shows": [
             {
               "artist": "Jenny Owen Youngs and Northcote",
@@ -232,7 +231,7 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 32,
+          "show_count": 33,
           "shows": [
             {
               "artist": "Public Image Ltd",

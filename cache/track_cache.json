@@ -7696,5 +7696,23 @@
       "artist": "little image"
     }
   ],
-  "Bombargo wsg/ Jewel House": []
+  "Bombargo wsg/ Jewel House": [],
+  "Maria and the Coins \"Hell of a Ride\" Tour w/ Beach Boise Idaho & Almost Exactly Like Julia": [],
+  "Night Lovell": [
+    {
+      "uri": "spotify:track:1nQwi9UGdNeN1FyzGE7jDt",
+      "name": "JOAN OF ARC",
+      "artist": "Night Lovell"
+    },
+    {
+      "uri": "spotify:track:2y57H6nA3vic5t8awwaS69",
+      "name": "Dark Light",
+      "artist": "Night Lovell"
+    },
+    {
+      "uri": "spotify:track:7fm0RfFil17f017qchrnyK",
+      "name": "Deira City Centre",
+      "artist": "Night Lovell"
+    }
+  ]
 }
