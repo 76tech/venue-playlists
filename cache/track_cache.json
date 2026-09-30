@@ -7714,5 +7714,40 @@
       "name": "Deira City Centre",
       "artist": "Night Lovell"
     }
+  ],
+  "Mother of Earl w/ Poster Child & Chet Vincent and Tim Good": [],
+  "Hannah Wicklund": [
+    {
+      "uri": "spotify:track:1W7p6F62zAGi6ljYEu0Yam",
+      "name": "Bomb Through the Breeze",
+      "artist": "Hannah Wicklund"
+    },
+    {
+      "uri": "spotify:track:0Y7MZppKdt5ZWSdXFpqjjN",
+      "name": "Ohio",
+      "artist": "Hannah Wicklund"
+    },
+    {
+      "uri": "spotify:track:1y4lKMU8Ie4ajVLfJha9Yk",
+      "name": "Red Gorilla",
+      "artist": "Hannah Wicklund"
+    }
+  ],
+  "Tommy Emmanuel": [
+    {
+      "uri": "spotify:track:4PGrQH5eUSlo8CxdUHRDx3",
+      "name": "Classical Gas - Live",
+      "artist": "Tommy Emmanuel"
+    },
+    {
+      "uri": "spotify:track:6YOyCcKnl6N4giYLZdqaOo",
+      "name": "Doc's Guitar / Black Mountain Rag",
+      "artist": "Tommy Emmanuel"
+    },
+    {
+      "uri": "spotify:track:5pHKRHEDtI0d81i89dsJn4",
+      "name": "Deep River Blues",
+      "artist": "Tommy Emmanuel"
+    }
   ]
 }
