@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:38:11.956142+00:00",
+  "generated_at": "2026-10-01T13:20:21.346769+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 29,
           "shows": [
             {
               "artist": "The Linda Lindas with Special Guests Deux Visages and Colatura",
@@ -132,7 +132,7 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 27,
+          "show_count": 28,
           "shows": [
             {
               "artist": "Jenny Owen Youngs and Northcote",
@@ -212,11 +212,11 @@
               "ticket_url": "https://www.ticketweb.com/event/little-barrie-norside-club-cafe-tickets/14295564"
             },
             {
-              "artist": "Father Frank & Under The Canopy",
-              "show_date": "2026-11-04",
+              "artist": "Marcedes Carroll & Doc Elliot",
+              "show_date": "2026-10-29",
               "show_time": "20:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/father-frank-under-the-club-cafe-tickets/14206074"
+              "ticket_url": "https://www.ticketweb.com/event/marcedes-carroll-doc-elliot-club-cafe-tickets/14352684"
             }
           ]
         },
@@ -352,7 +352,7 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 10,
+          "show_count": 11,
           "shows": [
             {
               "artist": "Improvement Movement",
@@ -385,6 +385,13 @@
               "show_time": "18:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/beauty-school-dropout-pittsburgh-pennsylvania-10-22-2026/event/1600650A95395096"
+            },
+            {
+              "artist": "Riff Raff",
+              "show_date": "2026-10-28",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/riff-raff-21-pittsburgh-pennsylvania-10-28-2026/event/1600653DBA8AA2E4"
             },
             {
               "artist": "Chris Webby",
