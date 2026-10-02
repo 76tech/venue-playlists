@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:20:21.346769+00:00",
+  "generated_at": "2026-10-02T12:39:25.939102+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -132,15 +132,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "Jenny Owen Youngs and Northcote",
-              "show_date": "2026-10-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/jenny-owen-youngs-and-northcote-club-cafe-tickets/14901343"
-            },
             {
               "artist": "Bombargo wsg/ Jewel House",
               "show_date": "2026-10-02",
@@ -217,6 +210,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/marcedes-carroll-doc-elliot-club-cafe-tickets/14352684"
+            },
+            {
+              "artist": "Father Frank & Under The Canopy",
+              "show_date": "2026-11-04",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/father-frank-under-the-club-cafe-tickets/14206074"
             }
           ]
         },
