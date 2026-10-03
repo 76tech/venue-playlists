@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:39:25.939102+00:00",
+  "generated_at": "2026-10-03T11:42:16.038747+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,24 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 29,
+          "show_count": 28,
           "shows": [
-            {
-              "artist": "The Linda Lindas with Special Guests Deux Visages and Colatura",
-              "show_date": "2026-10-02",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-linda-lindas-deux-visages-mr-smalls-theatre-tickets/14250334"
-            },
-            {
-              "artist": "The Linda Lindas",
-              "show_date": "2026-10-02",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Deux Visages"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7J3Jp"
-            },
             {
               "artist": "glaive",
               "show_date": "2026-10-03",
@@ -108,6 +92,20 @@
               "show_time": "19:30:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/cruel-summer-live-mr-smalls-theatre-tickets/14264004"
+            },
+            {
+              "artist": "Daniel Donato\u2019s Cosmic Country",
+              "show_date": "2026-10-27",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/daniel-donatos-cosmic-country-mr-smalls-theatre-tickets/14952513"
+            },
+            {
+              "artist": "Lotus",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lotus-mr-smalls-theatre-tickets/14300454"
             }
           ]
         },
@@ -132,15 +130,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 27,
+          "show_count": 26,
           "shows": [
-            {
-              "artist": "Bombargo wsg/ Jewel House",
-              "show_date": "2026-10-02",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/bombargo-wsg-jewel-house-club-cafe-tickets/14982953"
-            },
             {
               "artist": "Nicky Diamonds",
               "show_date": "2026-10-07",
@@ -217,6 +208,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/father-frank-under-the-club-cafe-tickets/14206074"
+            },
+            {
+              "artist": "Colby T. Helms",
+              "show_date": "2026-11-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/colby-t-helms-club-cafe-tickets/15040553"
             }
           ]
         },
@@ -229,17 +227,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 33,
+          "show_count": 31,
           "shows": [
-            {
-              "artist": "Michael Franti",
-              "show_date": "2026-10-02",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Wheeland Brothers"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/michael-franti-trio-heartstrings-dynamite-mckees-rocks-pennsylvania-10-02-2026/event/160064EFDB1EAE3F"
-            },
             {
               "artist": "Paul Oakenfold",
               "show_date": "2026-10-03",
@@ -277,13 +266,6 @@
                 "Girl Named Tom"
               ],
               "ticket_url": "https://www.ticketmaster.com/vitamin-string-quartet-girl-named-tom-mckees-rocks-pennsylvania-10-08-2026/event/16006507D4DEE414"
-            },
-            {
-              "artist": "Chief Keef",
-              "show_date": "2026-10-12",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/chief-keef-mckees-rocks-pennsylvania-10-12-2026/event/1600651BD13ED58A"
             },
             {
               "artist": "Christone \"Kingfish\" Ingram",
@@ -340,6 +322,24 @@
                 "Emma Ruth Rundle"
               ],
               "ticket_url": "https://www.ticketmaster.com/all-them-witches-21-shows-21-mckees-rocks-pennsylvania-10-23-2026/event/16006495E0D4B114"
+            },
+            {
+              "artist": "Machine Girl",
+              "show_date": "2026-10-27",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/machine-girl-mckees-rocks-pennsylvania-10-27-2026/event/160064E1C967EB6F"
+            },
+            {
+              "artist": "Periphery",
+              "show_date": "2026-10-29",
+              "show_time": "17:30:00",
+              "support_acts": [
+                "Ne Obliviscaris",
+                "Greyhaven",
+                "Ando San"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/periphery-a-pale-white-dot-us-mckees-rocks-pennsylvania-10-29-2026/event/160064B5D1A4C7AE"
             }
           ]
         },
