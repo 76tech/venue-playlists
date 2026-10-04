@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:42:16.038747+00:00",
+  "generated_at": "2026-10-04T12:24:47.695359+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "glaive",
-              "show_date": "2026-10-03",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/glaive-tiffany-day-mr-smalls-theatre-tickets/14905493"
-            },
             {
               "artist": "Medium Build",
               "show_date": "2026-10-05",
@@ -106,6 +99,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lotus-mr-smalls-theatre-tickets/14300454"
+            },
+            {
+              "artist": "The Sword with Special Guest Moon Destroys",
+              "show_date": "2026-10-31",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/the-sword-moon-destroys-mr-smalls-theatre-tickets/14313284"
             }
           ]
         },
@@ -230,16 +230,6 @@
           "show_count": 31,
           "shows": [
             {
-              "artist": "Paul Oakenfold",
-              "show_date": "2026-10-03",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Crystal Method",
-                "Liquid Todd"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/paul-oakenfold-the-crystal-method-mission-mckees-rocks-pennsylvania-10-03-2026/event/160064F5A958650A"
-            },
-            {
               "artist": "Benjamin Tod",
               "show_date": "2026-10-04",
               "show_time": "19:00:00",
@@ -340,6 +330,15 @@
                 "Ando San"
               ],
               "ticket_url": "https://www.ticketmaster.com/periphery-a-pale-white-dot-us-mckees-rocks-pennsylvania-10-29-2026/event/160064B5D1A4C7AE"
+            },
+            {
+              "artist": "R&B ONLY",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [
+                "R&B ONLY LIVE"
+              ],
+              "ticket_url": "https://www.universe.com/events/r-b-only-live-pittsburgh-pa-tickets-Z2Q6MJ?ref=ticketmaster"
             }
           ]
         },
