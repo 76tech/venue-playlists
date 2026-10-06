@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:44:58.228568+00:00",
+  "generated_at": "2026-10-06T13:21:07.912547+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,26 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Medium Build",
-              "show_date": "2026-10-05",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Ken Yates"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1A7PV49"
-            },
-            {
-              "artist": "Medium Build",
-              "show_date": "2026-10-05",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Ken Yates"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/medium-build-the-mr-smalls-theatre-tickets/14200424"
-            },
             {
               "artist": "Mo Lowda & The Humble",
               "show_date": "2026-10-08",
@@ -106,6 +88,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/the-sword-moon-destroys-mr-smalls-theatre-tickets/14313284"
+            },
+            {
+              "artist": "Grateful Shred",
+              "show_date": "2026-11-01",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/grateful-shred-mr-smalls-theatre-tickets/14824563"
+            },
+            {
+              "artist": "Sueco with Special Guest Jeris Johnson",
+              "show_date": "2026-11-03",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/sueco-jeris-johnson-mr-smalls-theatre-tickets/14249084"
             }
           ]
         },
@@ -130,7 +126,7 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 26,
+          "show_count": 27,
           "shows": [
             {
               "artist": "Nicky Diamonds",
@@ -145,6 +141,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/ian-mcconnell-w-cherokee-social-club-cafe-tickets/14983963"
+            },
+            {
+              "artist": "RH Pioneers + Jacob Perez w/ Cody Piper",
+              "show_date": "2026-10-15",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/rh-pioneers-jacob-perez-club-cafe-tickets/14364674"
             },
             {
               "artist": "WYEP Pesents: The Laurel Lowlifes w/ Blooming Trio & Becks!",
@@ -208,13 +211,6 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/father-frank-under-the-club-cafe-tickets/14206074"
-            },
-            {
-              "artist": "Colby T. Helms",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/colby-t-helms-club-cafe-tickets/15040553"
             }
           ]
         },
@@ -227,7 +223,7 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 30,
+          "show_count": 31,
           "shows": [
             {
               "artist": "Soccer Mommy",

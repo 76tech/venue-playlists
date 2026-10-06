@@ -7769,5 +7769,23 @@
       "artist": "Riff Raff"
     }
   ],
-  "Ravefurrest": []
+  "Ravefurrest": [],
+  "RH Pioneers + Jacob Perez w/ Cody Piper": [],
+  "Bone Thugs-N-Harmony": [
+    {
+      "uri": "spotify:track:5KSJ9k1FYjFLnIRlJT2wF8",
+      "name": "Tha Crossroads",
+      "artist": "Bone Thugs-N-Harmony"
+    },
+    {
+      "uri": "spotify:track:1dF5Y2dd7Wm4wZKvVjWBpr",
+      "name": "1st of Tha Month",
+      "artist": "Bone Thugs-N-Harmony"
+    },
+    {
+      "uri": "spotify:track:1ozdRCYFVt8Ui0dba1520D",
+      "name": "Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster",
+      "artist": "Bone Thugs-N-Harmony"
+    }
+  ]
 }
