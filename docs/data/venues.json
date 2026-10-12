@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:54:02.547077+00:00",
+  "generated_at": "2026-10-12T15:30:38.845809+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -126,15 +126,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Ian McConnell w/ Cherokee Social",
-              "show_date": "2026-10-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/ian-mcconnell-w-cherokee-social-club-cafe-tickets/14983963"
-            },
             {
               "artist": "RH Pioneers + Jacob Perez w/ Cody Piper",
               "show_date": "2026-10-15",
@@ -211,6 +204,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/colby-t-helms-club-cafe-tickets/15040553"
+            },
+            {
+              "artist": "Kendall Street Company: Yodeling Astroman Tour wsg/ Logan B & Dirty Leaf",
+              "show_date": "2026-11-06",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kendall-street-company-yodeling-astroman-club-cafe-tickets/14996413"
             }
           ]
         },
@@ -346,7 +346,7 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 9,
+          "show_count": 10,
           "shows": [
             {
               "artist": "Oh He Dead",
@@ -417,6 +417,13 @@
               "show_time": "21:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/emo-nite-pittsburgh-pennsylvania-11-13-2026/event/1600652BCBBA8C8C"
+            },
+            {
+              "artist": "feeble little horse",
+              "show_date": "2027-02-09",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/feeble-little-horse-bitknot-tour-2027-pittsburgh-pennsylvania-02-09-2027/event/1600653C253C2A05"
             }
           ]
         }
