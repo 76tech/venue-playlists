@@ -7787,5 +7787,63 @@
       "name": "Notorious Thugs (feat. Bone Thugs-n-Harmony) - 2007 Remaster",
       "artist": "Bone Thugs-N-Harmony"
     }
+  ],
+  "Seven Color Sky": [
+    {
+      "uri": "spotify:track:5awzdKRXol2vAEwyTJSpkl",
+      "name": "She Looked So Plain",
+      "artist": "Seven Color Sky"
+    },
+    {
+      "uri": "spotify:track:4mC37E5OUSuE6HOskrkgxB",
+      "name": "Something So Good",
+      "artist": "Seven Color Sky"
+    },
+    {
+      "uri": "spotify:track:3LF5AQ7pAgJV4OOumtQwX4",
+      "name": "A Selfless Life",
+      "artist": "Seven Color Sky"
+    }
+  ],
+  "WXXP Reunion with special appearance by The Affordable Floors, final performance of Generation XX and tributes to The Smiths, The Clash, The B-52's & The Cure": [
+    {
+      "uri": "spotify:track:1y5V5qja332UyMeUurFhDS",
+      "name": "Private Idaho",
+      "artist": "The B-52's"
+    },
+    {
+      "uri": "spotify:track:5fqcIHU6DhQtFKVO5XSdQs",
+      "name": "Roam",
+      "artist": "The B-52's"
+    },
+    {
+      "uri": "spotify:track:5aC0QmgjYGG8QYgAg06nTk",
+      "name": "Planet Claire",
+      "artist": "The B-52's"
+    }
+  ],
+  "Billy Price Band": [
+    {
+      "uri": "spotify:track:0YauWHngBkDBz6LSpDo2GE",
+      "name": "It Ain't a Juke Joint Without the Blues - Remastered",
+      "artist": "Billy Price Band"
+    }
+  ],
+  "Montell Fish": [
+    {
+      "uri": "spotify:track:4UgQtwlW2Kd6fyv3y6DQ3e",
+      "name": "Hotel",
+      "artist": "Montell Fish"
+    },
+    {
+      "uri": "spotify:track:3NTkDaR9hw7VbU3ziBnNVz",
+      "name": "Fall in Love with You.",
+      "artist": "Montell Fish"
+    },
+    {
+      "uri": "spotify:track:2CPPd0ke6cp59v079vDcUi",
+      "name": "Bathroom",
+      "artist": "Montell Fish"
+    }
   ]
 }

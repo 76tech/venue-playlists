@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:56:42.193965+00:00",
+  "generated_at": "2026-10-15T11:33:09.494043+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 26,
           "shows": [
             {
               "artist": "Brigitte Calls Me Baby",
@@ -126,7 +126,7 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 25,
+          "show_count": 26,
           "shows": [
             {
               "artist": "RH Pioneers + Jacob Perez w/ Cody Piper",
@@ -225,13 +225,6 @@
           "stale": false,
           "show_count": 29,
           "shows": [
-            {
-              "artist": "Christone \"Kingfish\" Ingram",
-              "show_date": "2026-10-14",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/christone-kingfish-ingram-the-hard-road-mckees-rocks-pennsylvania-10-14-2026/event/160064CF0E9A3552"
-            },
             {
               "artist": "Arm's Length",
               "show_date": "2026-10-15",
@@ -334,6 +327,15 @@
                 "Shane Profitt"
               ],
               "ticket_url": "https://www.ticketmaster.com/lauren-alaina-the-stages-tour-mckees-rocks-pennsylvania-11-05-2026/event/160064B4CF62B88D"
+            },
+            {
+              "artist": "Vince Staples",
+              "show_date": "2026-11-06",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Duckwrth"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-mckees-rocks-pennsylvania-11-06-2026/event/160064C910CEDA18"
             }
           ]
         },
