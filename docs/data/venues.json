@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:33:09.494043+00:00",
+  "generated_at": "2026-10-16T11:27:55.462288+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -129,13 +129,6 @@
           "show_count": 26,
           "shows": [
             {
-              "artist": "RH Pioneers + Jacob Perez w/ Cody Piper",
-              "show_date": "2026-10-15",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/rh-pioneers-jacob-perez-club-cafe-tickets/14364674"
-            },
-            {
               "artist": "WYEP Pesents: The Laurel Lowlifes w/ Blooming Trio & Becks!",
               "show_date": "2026-10-16",
               "show_time": "20:00:00",
@@ -150,11 +143,11 @@
               "ticket_url": "https://www.ticketweb.com/event/mother-of-earl-w-poster-club-cafe-tickets/14349614"
             },
             {
-              "artist": "Kara Frazier, Emily Lehr & the Foxglove Fellows, and Van Gilder",
+              "artist": "Sarah Giles, Emily Lehr & the Foxglove Fellows, and Van Gilder",
               "show_date": "2026-10-18",
               "show_time": "19:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kara-frazier-emily-lehr-club-cafe-tickets/14300654"
+              "ticket_url": "https://www.ticketweb.com/event/sarah-giles-emily-lehr-club-cafe-tickets/14300654"
             },
             {
               "artist": "Joe Stamm Band w/ Josh Travis",
@@ -192,6 +185,13 @@
               "ticket_url": "https://www.ticketweb.com/event/marcedes-carroll-doc-elliot-club-cafe-tickets/14352684"
             },
             {
+              "artist": "Club Cafe Presents: Halloween with Livefromthecity, SENSEISHUN, Royal Haunts, Burlesque Showcase by Evie Sanguine",
+              "show_date": "2026-10-31",
+              "show_time": "21:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/club-cafe-presents-halloween-with-club-cafe-tickets/14384974"
+            },
+            {
               "artist": "Father Frank & Under The Canopy",
               "show_date": "2026-11-04",
               "show_time": "20:00:00",
@@ -223,19 +223,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 29,
+          "show_count": 28,
           "shows": [
-            {
-              "artist": "Arm's Length",
-              "show_date": "2026-10-15",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "Holding Absence",
-                "Bloom",
-                "House & Home"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/arms-length-holding-absence-north-american-mckees-rocks-pennsylvania-10-15-2026/event/160064CFF8CDF6E1"
-            },
             {
               "artist": "Wheeler Walker Jr.",
               "show_date": "2026-10-16",
@@ -336,6 +325,13 @@
                 "Duckwrth"
               ],
               "ticket_url": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-mckees-rocks-pennsylvania-11-06-2026/event/160064C910CEDA18"
+            },
+            {
+              "artist": "Chief Keef",
+              "show_date": "2026-11-09",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/chief-keef-mckees-rocks-pennsylvania-11-09-2026/event/1600651BD13ED58A"
             }
           ]
         },
