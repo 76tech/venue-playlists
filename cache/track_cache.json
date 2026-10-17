@@ -7847,5 +7847,39 @@
     }
   ],
   "Sarah Giles, Emily Lehr & the Foxglove Fellows, and Van Gilder": [],
-  "Club Cafe Presents: Halloween with Livefromthecity, SENSEISHUN, Royal Haunts, Burlesque Showcase by Evie Sanguine": []
+  "Club Cafe Presents: Halloween with Livefromthecity, SENSEISHUN, Royal Haunts, Burlesque Showcase by Evie Sanguine": [],
+  "WXXP Reunion Featuring The Affordable Floors and Generation XX - tributes to The Smiths, The Clash, The B-52's & The Cure": [
+    {
+      "uri": "spotify:track:1y5V5qja332UyMeUurFhDS",
+      "name": "Private Idaho",
+      "artist": "The B-52's"
+    },
+    {
+      "uri": "spotify:track:5aC0QmgjYGG8QYgAg06nTk",
+      "name": "Planet Claire",
+      "artist": "The B-52's"
+    },
+    {
+      "uri": "spotify:track:5fqcIHU6DhQtFKVO5XSdQs",
+      "name": "Roam",
+      "artist": "The B-52's"
+    }
+  ],
+  "Joey Harkum": [
+    {
+      "uri": "spotify:track:0WvABiCsgTiSRPUZn8oqEv",
+      "name": "Hold On",
+      "artist": "Joey Harkum"
+    },
+    {
+      "uri": "spotify:track:7v2qy2Mb3fSEw7iw23Medt",
+      "name": "I'll Be Gone",
+      "artist": "Joey Harkum"
+    },
+    {
+      "uri": "spotify:track:7taq3sdSCqcpD5iUP2u7rT",
+      "name": "Sick and Tired",
+      "artist": "Joey Harkum"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:27:55.462288+00:00",
+  "generated_at": "2026-10-17T10:47:36.211150+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,24 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Brigitte Calls Me Baby",
-              "show_date": "2026-10-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZZeA"
-            },
-            {
-              "artist": "Brigitte Calls Me Baby",
-              "show_date": "2026-10-16",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Common People"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/brigitte-calls-me-baby-common-mr-smalls-theatre-tickets/14243224"
-            },
             {
               "artist": "Dana and Alden",
               "show_date": "2026-10-17",
@@ -73,6 +57,13 @@
               "show_date": "2026-10-30",
               "show_time": "20:00:00",
               "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvIjb"
+            },
+            {
+              "artist": "Lotus",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lotus-mr-smalls-theatre-tickets/14300454"
             },
             {
@@ -102,6 +93,15 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fortunate-youth-kashd-out-mr-smalls-theatre-tickets/14257514"
+            },
+            {
+              "artist": "Chat Pile",
+              "show_date": "2026-11-06",
+              "show_time": "19:30:00",
+              "support_acts": [
+                "Soul Glo"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/chat-pile-soul-glo-shallowater-mr-smalls-theatre-tickets/14971013"
             }
           ]
         },
@@ -128,13 +128,6 @@
           "stale": false,
           "show_count": 26,
           "shows": [
-            {
-              "artist": "WYEP Pesents: The Laurel Lowlifes w/ Blooming Trio & Becks!",
-              "show_date": "2026-10-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/wyep-pesents-the-laurel-lowlifes-club-cafe-tickets/15049003"
-            },
             {
               "artist": "Mother of Earl w/ Poster Child & Chet Vincent and Tim Good",
               "show_date": "2026-10-17",
@@ -168,7 +161,7 @@
               "show_date": "2026-10-25",
               "show_time": "19:00:00",
               "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/the-lowest-pair-club-cafe-tickets/14243104"
+              "ticket_url": "https://www.ticketweb.com/event/the-lowest-pair-wsg-julianna-club-cafe-tickets/14243104"
             },
             {
               "artist": "Little Barrie",
@@ -211,6 +204,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/kendall-street-company-yodeling-astroman-club-cafe-tickets/14996413"
+            },
+            {
+              "artist": "Seven Teller",
+              "show_date": "2026-11-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/seven-teller-club-cafe-tickets/14297344"
             }
           ]
         },
@@ -223,17 +223,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 28,
+          "show_count": 27,
           "shows": [
-            {
-              "artist": "Wheeler Walker Jr.",
-              "show_date": "2026-10-16",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Colton Bowlin"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-mckees-rocks-pennsylvania-10-16-2026/event/160064C3EC51129D"
-            },
             {
               "artist": "Earl Sweatshirt",
               "show_date": "2026-10-18",
@@ -332,6 +323,18 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/chief-keef-mckees-rocks-pennsylvania-11-09-2026/event/1600651BD13ED58A"
+            },
+            {
+              "artist": "Pouya",
+              "show_date": "2026-11-14",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Ramirez",
+                "comehelpglo",
+                "Black Smurf",
+                "Fat Nick"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/pouya-mckees-rocks-pennsylvania-11-14-2026/event/160064C8D16CAE11"
             }
           ]
         },
