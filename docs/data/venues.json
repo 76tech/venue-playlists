@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:09:53.860899+00:00",
+  "generated_at": "2026-10-19T13:21:40.251443+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -126,15 +126,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 25,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "Sarah Giles, Emily Lehr & the Foxglove Fellows, and Van Gilder",
-              "show_date": "2026-10-18",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/sarah-giles-emily-lehr-club-cafe-tickets/14300654"
-            },
             {
               "artist": "Joe Stamm Band w/ Josh Travis",
               "show_date": "2026-10-23",
@@ -211,6 +204,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/maria-and-the-coins-hell-club-cafe-tickets/14346974"
+            },
+            {
+              "artist": "JACKIE EVANS W/ ELLI ROWE",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/jackie-evans-w-elli-rowe-club-cafe-tickets/14237384"
             }
           ]
         },
@@ -223,19 +223,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 26,
           "shows": [
-            {
-              "artist": "Earl Sweatshirt",
-              "show_date": "2026-10-18",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "MIKE",
-                "Surf Gang",
-                "Anysia Kym"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-mckees-rocks-pennsylvania-10-18-2026/event/16006466D2DFD9FC"
-            },
             {
               "artist": "Candlebox",
               "show_date": "2026-10-22",
@@ -335,6 +324,16 @@
                 "Fat Nick"
               ],
               "ticket_url": "https://www.ticketmaster.com/pouya-mckees-rocks-pennsylvania-11-14-2026/event/160064C8D16CAE11"
+            },
+            {
+              "artist": "The Menzingers",
+              "show_date": "2026-11-15",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Hot Water Music",
+                "Weakened Friends"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-mckees-rocks-pennsylvania-11-15-2026/event/1600649AE6A2CD34"
             }
           ]
         },
