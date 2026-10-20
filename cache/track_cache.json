@@ -7881,5 +7881,39 @@
       "name": "Sick and Tired",
       "artist": "Joey Harkum"
     }
+  ],
+  "Voodoo Glow Skulls": [
+    {
+      "uri": "spotify:track:74Y2eYNC5SFEaekY8epIKR",
+      "name": "Shoot the Moon",
+      "artist": "Voodoo Glow Skulls"
+    },
+    {
+      "uri": "spotify:track:4AMsCO7FOmlvEX4TdNFgxV",
+      "name": "El Coo Cooi",
+      "artist": "Voodoo Glow Skulls"
+    },
+    {
+      "uri": "spotify:track:5xPkFT6lzDfQo08leX87L4",
+      "name": "Insubordination",
+      "artist": "Voodoo Glow Skulls"
+    }
+  ],
+  "Shovels & Rope": [
+    {
+      "uri": "spotify:track:5ciSr1SyZUQrxySlxZhdhg",
+      "name": "Birmingham",
+      "artist": "Shovels & Rope"
+    },
+    {
+      "uri": "spotify:track:5WvJAYh7Nm5SLu5NCp3Au1",
+      "name": "Gasoline",
+      "artist": "Shovels & Rope"
+    },
+    {
+      "uri": "spotify:track:3y4oFrifsZaSUib1QhDhmv",
+      "name": "Unknown Legend",
+      "artist": "Shovels & Rope"
+    }
   ]
 }

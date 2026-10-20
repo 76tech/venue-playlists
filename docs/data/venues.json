@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:21:40.251443+00:00",
+  "generated_at": "2026-10-20T11:41:40.628462+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -223,7 +223,7 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 27,
           "shows": [
             {
               "artist": "Candlebox",
