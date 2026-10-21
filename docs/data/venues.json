@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:41:40.628462+00:00",
+  "generated_at": "2026-10-21T11:53:17.832817+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -157,7 +157,7 @@
               "ticket_url": "https://www.ticketweb.com/event/little-barrie-norside-club-cafe-tickets/14295564"
             },
             {
-              "artist": "Marcedes Carroll & Doc Elliot",
+              "artist": "Marcedes Carroll & Doc Elliot wsg/ Emily Lehr",
               "show_date": "2026-10-29",
               "show_time": "20:00:00",
               "support_acts": [],
@@ -346,15 +346,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 10,
+          "show_count": 9,
           "shows": [
-            {
-              "artist": "Oh He Dead",
-              "show_date": "2026-10-20",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/oh-he-dead-21-pittsburgh-pennsylvania-10-20-2026/event/1600650A98C154EB"
-            },
             {
               "artist": "Beauty School Dropout",
               "show_date": "2026-10-22",
