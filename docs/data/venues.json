@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:53:17.832817+00:00",
+  "generated_at": "2026-10-22T11:56:35.761354+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 26,
           "shows": [
             {
               "artist": "Low Cut Connie",
