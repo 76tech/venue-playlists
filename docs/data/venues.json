@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:56:35.761354+00:00",
+  "generated_at": "2026-10-23T11:42:39.328493+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 25,
           "shows": [
-            {
-              "artist": "Low Cut Connie",
-              "show_date": "2026-10-22",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Brian Dunne"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/low-cut-connie-brian-dunne-mr-smalls-theatre-tickets/14844433"
-            },
             {
               "artist": "The Commonheart",
               "show_date": "2026-10-23",
@@ -102,6 +93,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/fantastic-cat-ok-cowgirl-mr-smalls-theatre-tickets/14988813"
+            },
+            {
+              "artist": "Julia Jacklin",
+              "show_date": "2026-11-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/julia-jacklin-jordan-patterson-mr-smalls-theatre-tickets/14952183"
             }
           ]
         },
@@ -223,17 +221,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 28,
           "shows": [
-            {
-              "artist": "Candlebox",
-              "show_date": "2026-10-22",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Sponge"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/candlebox-cant-quit-you-tour-fall-mckees-rocks-pennsylvania-10-22-2026/event/160064E9D3677F32"
-            },
             {
               "artist": "All Them Witches",
               "show_date": "2026-10-23",
@@ -260,6 +249,13 @@
                 "Ando San"
               ],
               "ticket_url": "https://www.ticketmaster.com/periphery-a-pale-white-dot-us-mckees-rocks-pennsylvania-10-29-2026/event/160064B5D1A4C7AE"
+            },
+            {
+              "artist": "R&B ONLY",
+              "show_date": "2026-10-30",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://pittsburgh.rnbonly.com/"
             },
             {
               "artist": "R&B ONLY",
@@ -349,13 +345,6 @@
           "show_count": 9,
           "shows": [
             {
-              "artist": "Beauty School Dropout",
-              "show_date": "2026-10-22",
-              "show_time": "18:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/beauty-school-dropout-pittsburgh-pennsylvania-10-22-2026/event/1600650A95395096"
-            },
-            {
               "artist": "Riff Raff",
               "show_date": "2026-10-28",
               "show_time": "19:00:00",
@@ -417,6 +406,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/feeble-little-horse-bitknot-tour-2027-pittsburgh-pennsylvania-02-09-2027/event/1600653C253C2A05"
+            },
+            {
+              "artist": "feeble little horse",
+              "show_date": "2027-02-10",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/feeble-little-horse-bitknot-tour-2027-pittsburgh-pennsylvania-02-10-2027/event/16006553DB6D8D9F"
             }
           ]
         }

@@ -7934,5 +7934,22 @@
       "artist": "Saxsquatch"
     }
   ],
-  "Saxsquatch - The Conspiracy Theory Tour": []
+  "Saxsquatch - The Conspiracy Theory Tour": [],
+  "CHVRCHES": [
+    {
+      "uri": "spotify:track:1OVypFlcraAhyvPqIMWDor",
+      "name": "The Mother We Share",
+      "artist": "CHVRCHES"
+    },
+    {
+      "uri": "spotify:track:3cV0ssCRS5OUR6iRUHf56C",
+      "name": "Roses",
+      "artist": "CHVRCHES"
+    },
+    {
+      "uri": "spotify:track:2La74vQJjGEbn0LdTKTGGY",
+      "name": "How Not To Drown",
+      "artist": "CHVRCHES"
+    }
+  ]
 }
