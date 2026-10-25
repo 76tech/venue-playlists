@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:05:20.532022+00:00",
+  "generated_at": "2026-10-25T11:34:42.958680+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 24,
+          "show_count": 23,
           "shows": [
-            {
-              "artist": "Cruel Summer - Live Band Tribute to Taylor Swift",
-              "show_date": "2026-10-24",
-              "show_time": "19:30:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/cruel-summer-live-mr-smalls-theatre-tickets/14264004"
-            },
             {
               "artist": "Daniel Donato\u2019s Cosmic Country",
               "show_date": "2026-10-27",
@@ -104,6 +97,13 @@
                 "Artikal Sound System"
               ],
               "ticket_url": "https://www.ticketweb.com/event/bumpin-uglies-artikal-sound-system-mr-smalls-theatre-tickets/14203654"
+            },
+            {
+              "artist": "Ben Caplan",
+              "show_date": "2026-11-14",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/yaelokre-ben-caplan-mr-smalls-theatre-tickets/14193174"
             }
           ]
         },
@@ -128,15 +128,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 23,
+          "show_count": 22,
           "shows": [
-            {
-              "artist": "Olivia and the Lovers w/ Britt & Cam",
-              "show_date": "2026-10-24",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/olivia-and-the-lovers-w-club-cafe-tickets/14295454"
-            },
             {
               "artist": "The Lowest Pair",
               "show_date": "2026-10-25",
@@ -213,6 +206,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/club-cafe-presents-maya-de-club-cafe-tickets/14227784"
+            },
+            {
+              "artist": "Chloe Kimes The Daredevil Tour",
+              "show_date": "2026-11-15",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/chloe-kimes-the-daredevil-tour-club-cafe-tickets/15041133"
             }
           ]
         },
