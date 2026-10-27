@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:07:50.168965+00:00",
+  "generated_at": "2026-10-27T12:16:07.443196+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -348,7 +348,7 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 9,
+          "show_count": 10,
           "shows": [
             {
               "artist": "Riff Raff",
@@ -419,6 +419,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/feeble-little-horse-bitknot-tour-2027-pittsburgh-pennsylvania-02-10-2027/event/16006553DB6D8D9F"
+            },
+            {
+              "artist": "Dogpark",
+              "show_date": "2027-02-16",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/dogpark-pittsburgh-pennsylvania-02-16-2027/event/16006556B3D48160"
             }
           ]
         }
