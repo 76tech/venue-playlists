@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:58:46.068331+00:00",
+  "generated_at": "2026-10-29T13:05:51.214307+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -353,15 +353,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 10,
+          "show_count": 9,
           "shows": [
-            {
-              "artist": "Riff Raff",
-              "show_date": "2026-10-28",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/riff-raff-21-pittsburgh-pennsylvania-10-28-2026/event/1600653DBA8AA2E4"
-            },
             {
               "artist": "Chris Webby",
               "show_date": "2026-11-05",
