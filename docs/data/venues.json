@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:05:51.214307+00:00",
+  "generated_at": "2026-10-30T12:59:01.225968+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 23,
           "shows": [
             {
               "artist": "Lotus",
@@ -89,6 +89,15 @@
               "support_acts": [
                 "Artikal Sound System"
               ],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdAI"
+            },
+            {
+              "artist": "Bumpin Uglies",
+              "show_date": "2026-11-12",
+              "show_time": "19:30:00",
+              "support_acts": [
+                "Artikal Sound System"
+              ],
               "ticket_url": "https://www.ticketweb.com/event/bumpin-uglies-artikal-sound-system-mr-smalls-theatre-tickets/14203654"
             },
             {
@@ -97,15 +106,6 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/yaelokre-ben-caplan-mr-smalls-theatre-tickets/14193174"
-            },
-            {
-              "artist": "Tropidelic",
-              "show_date": "2026-11-15",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Surfer Girl"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/tropidelic-surfer-girl-the-quasi-mr-smalls-theatre-tickets/14920663"
             }
           ]
         },
@@ -130,15 +130,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 20,
+          "show_count": 19,
           "shows": [
-            {
-              "artist": "Marcedes Carroll & Doc Elliot wsg/ Emily Lehr",
-              "show_date": "2026-10-29",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/marcedes-carroll-doc-elliot-club-cafe-tickets/14352684"
-            },
             {
               "artist": "Club Cafe Presents: Halloween with Livefromthecity, SENSEISHUN, Royal Haunts, Burlesque Showcase by Evie Sanguine",
               "show_date": "2026-10-31",
@@ -215,6 +208,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/hannah-wicklund-club-cafe-tickets/14346994"
+            },
+            {
+              "artist": "Kelsey Waldon",
+              "show_date": "2026-11-20",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/kelsey-waldon-w-candi-jenkins-club-cafe-tickets/14307584"
             }
           ]
         },
@@ -227,19 +227,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 27,
+          "show_count": 26,
           "shows": [
-            {
-              "artist": "Periphery",
-              "show_date": "2026-10-29",
-              "show_time": "17:30:00",
-              "support_acts": [
-                "Ne Obliviscaris",
-                "Greyhaven",
-                "Ando San"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/periphery-a-pale-white-dot-us-mckees-rocks-pennsylvania-10-29-2026/event/160064B5D1A4C7AE"
-            },
             {
               "artist": "R&B ONLY",
               "show_date": "2026-10-30",
@@ -341,6 +330,17 @@
                 "Gaerea"
               ],
               "ticket_url": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-mckees-rocks-pennsylvania-11-18-2026/event/160064CCBDFBA0DE"
+            },
+            {
+              "artist": "Goldfinger",
+              "show_date": "2026-11-19",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Mustard Plug",
+                "The Planet Smashers",
+                "sullvn"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/goldfinger-w-mustard-plug-the-planet-mckees-rocks-pennsylvania-11-19-2026/event/160064F0D0F5ACD0"
             }
           ]
         },
