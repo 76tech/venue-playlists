@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:59:01.225968+00:00",
+  "generated_at": "2026-10-31T12:36:42.924257+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,22 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 23,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Lotus",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvIjb"
-            },
-            {
-              "artist": "Lotus",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/lotus-mr-smalls-theatre-tickets/14300454"
-            },
             {
               "artist": "The Sword with Special Guest Moon Destroys",
               "show_date": "2026-10-31",
@@ -106,6 +92,22 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/yaelokre-ben-caplan-mr-smalls-theatre-tickets/14193174"
+            },
+            {
+              "artist": "Tropidelic",
+              "show_date": "2026-11-15",
+              "show_time": "19:30:00",
+              "support_acts": [
+                "Surfer Girl"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/tropidelic-surfer-girl-the-quasi-mr-smalls-theatre-tickets/14920663"
+            },
+            {
+              "artist": "Ravefurrest",
+              "show_date": "2026-11-20",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/ravefurrest-mr-smalls-theatre-tickets/14356104"
             }
           ]
         },
@@ -227,24 +229,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 26,
+          "show_count": 24,
           "shows": [
-            {
-              "artist": "R&B ONLY",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://pittsburgh.rnbonly.com/"
-            },
-            {
-              "artist": "R&B ONLY",
-              "show_date": "2026-10-30",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "R&B ONLY LIVE"
-              ],
-              "ticket_url": "https://www.universe.com/events/r-b-only-live-pittsburgh-pa-tickets-Z2Q6MJ?ref=ticketmaster"
-            },
             {
               "artist": "Dweezil Zappa",
               "show_date": "2026-10-31",
@@ -341,6 +327,25 @@
                 "sullvn"
               ],
               "ticket_url": "https://www.ticketmaster.com/goldfinger-w-mustard-plug-the-planet-mckees-rocks-pennsylvania-11-19-2026/event/160064F0D0F5ACD0"
+            },
+            {
+              "artist": "Ten - Pearl Jam Tribute Band",
+              "show_date": "2026-11-21",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Disciple of the Garden - The Legacy of Chris Cornell"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/35-years-of-grunge-the-ten-mckees-rocks-pennsylvania-11-21-2026/event/160064E1DB3C21CA"
+            },
+            {
+              "artist": "Catch Your Breath",
+              "show_date": "2026-11-25",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "TX2",
+                "Colorblind"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-mckees-rocks-pennsylvania-11-25-2026/event/160064B5E74DE28C"
             }
           ]
         },
