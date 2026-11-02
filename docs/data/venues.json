@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:28:34.597444+00:00",
+  "generated_at": "2026-11-02T15:59:07.520589+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 19,
           "shows": [
-            {
-              "artist": "Grateful Shred",
-              "show_date": "2026-11-01",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/grateful-shred-mr-smalls-theatre-tickets/14824563"
-            },
             {
               "artist": "Sueco with Special Guest Jeris Johnson",
               "show_date": "2026-11-03",
@@ -108,6 +101,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/the-smalls-waltz-millvale-pennsylvania-11-21-2026/event/1600653ECBE2B28E"
+            },
+            {
+              "artist": "Seven Color Sky",
+              "show_date": "2026-11-27",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/wxxp-reunion-featuring-seven-color-mr-smalls-theatre-tickets/14378994"
             }
           ]
         },
