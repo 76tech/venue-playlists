@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:41:48.392558+00:00",
+  "generated_at": "2026-11-06T14:19:23.199381+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 18,
+          "show_count": 17,
           "shows": [
-            {
-              "artist": "Fortunate Youth",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [
-                "Jarv"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/fortunate-youth-kashd-out-jarv-mr-smalls-theatre-tickets/14257514"
-            },
             {
               "artist": "Chat Pile",
               "show_date": "2026-11-06",
@@ -108,6 +99,15 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/wxxp-reunion-featuring-the-affordable-mr-smalls-theatre-tickets/14379014"
+            },
+            {
+              "artist": "Atreyu",
+              "show_date": "2026-12-02",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "aurorawave"
+              ],
+              "ticket_url": "https://www.ticketweb.com/event/atreyu-aurorawave-mr-smalls-theatre-tickets/14266094"
             }
           ]
         },
@@ -142,13 +142,6 @@
           "stale": false,
           "show_count": 17,
           "shows": [
-            {
-              "artist": "Colby T. Helms",
-              "show_date": "2026-11-05",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/colby-t-helms-club-cafe-tickets/15040553"
-            },
             {
               "artist": "Kendall Street Company: Yodeling Astroman Tour wsg/ Logan B & Dirty Leaf",
               "show_date": "2026-11-06",
@@ -225,6 +218,13 @@
               "show_time": "12:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/whiskey-river-bloody-mary-morning-club-cafe-tickets/14295424"
+            },
+            {
+              "artist": "Billy Price Band",
+              "show_date": "2026-11-27",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/billy-price-club-cafe-tickets/14380464"
             }
           ]
         },
@@ -239,15 +239,6 @@
           "stale": false,
           "show_count": 22,
           "shows": [
-            {
-              "artist": "Lauren Alaina",
-              "show_date": "2026-11-05",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Shane Profitt"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/lauren-alaina-the-stages-tour-mckees-rocks-pennsylvania-11-05-2026/event/160064B4CF62B88D"
-            },
             {
               "artist": "Vince Staples",
               "show_date": "2026-11-06",
@@ -353,6 +344,17 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/that-arena-rock-show-mckees-rocks-pennsylvania-12-04-2026/event/160064B4BCCBA538"
+            },
+            {
+              "artist": "GWAR",
+              "show_date": "2026-12-06",
+              "show_time": "18:00:00",
+              "support_acts": [
+                "Midnight",
+                "Mac Sabbath",
+                "X-Cops"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/gwar-mckees-rocks-pennsylvania-12-06-2026/event/16006496E80BB6A1"
             }
           ]
         },
@@ -365,18 +367,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 9,
+          "show_count": 8,
           "shows": [
-            {
-              "artist": "Chris Webby",
-              "show_date": "2026-11-05",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Dizzy Wright",
-                "Lily Fangz"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/chris-webby-pittsburgh-pennsylvania-11-05-2026/event/16006519C108B03F"
-            },
             {
               "artist": "George Clanton",
               "show_date": "2026-11-06",
