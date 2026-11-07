@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:19:23.199381+00:00",
+  "generated_at": "2026-11-07T13:06:12.151228+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 17,
+          "show_count": 16,
           "shows": [
-            {
-              "artist": "Chat Pile",
-              "show_date": "2026-11-06",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Soul Glo"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/chat-pile-soul-glo-shallowater-mr-smalls-theatre-tickets/14971013"
-            },
             {
               "artist": "Fantastic Cat with Special Guest OK Cowgirl",
               "show_date": "2026-11-07",
@@ -107,7 +98,14 @@
               "support_acts": [
                 "aurorawave"
               ],
-              "ticket_url": "https://www.ticketweb.com/event/atreyu-aurorawave-mr-smalls-theatre-tickets/14266094"
+              "ticket_url": "https://www.ticketweb.com/event/atreyu-aurorawave-guides-mr-smalls-theatre-tickets/14266094"
+            },
+            {
+              "artist": "bleood",
+              "show_date": "2026-12-05",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/bleood-mr-smalls-theatre-tickets/15036923"
             }
           ]
         },
@@ -140,15 +138,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 17,
+          "show_count": 16,
           "shows": [
-            {
-              "artist": "Kendall Street Company: Yodeling Astroman Tour wsg/ Logan B & Dirty Leaf",
-              "show_date": "2026-11-06",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/kendall-street-company-yodeling-astroman-club-cafe-tickets/14996413"
-            },
             {
               "artist": "Seven Teller",
               "show_date": "2026-11-07",
@@ -225,6 +216,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/billy-price-club-cafe-tickets/14380464"
+            },
+            {
+              "artist": "MINKA",
+              "show_date": "2026-11-28",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/minka-club-cafe-tickets/15003213"
             }
           ]
         },
@@ -237,17 +235,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Vince Staples",
-              "show_date": "2026-11-06",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Duckwrth"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-mckees-rocks-pennsylvania-11-06-2026/event/160064C910CEDA18"
-            },
             {
               "artist": "Chief Keef",
               "show_date": "2026-11-09",
@@ -355,6 +344,15 @@
                 "X-Cops"
               ],
               "ticket_url": "https://www.ticketmaster.com/gwar-mckees-rocks-pennsylvania-12-06-2026/event/16006496E80BB6A1"
+            },
+            {
+              "artist": "Dax",
+              "show_date": "2026-12-08",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Thunderstorm Artis"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/dax-the-anger-management-tour-mckees-rocks-pennsylvania-12-08-2026/event/160064ACE54FC622"
             }
           ]
         },
@@ -367,17 +365,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 8,
+          "show_count": 7,
           "shows": [
-            {
-              "artist": "George Clanton",
-              "show_date": "2026-11-06",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Ryan Hemsworth"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/george-clanton-pittsburgh-pennsylvania-11-06-2026/event/16006503D692ABB3"
-            },
             {
               "artist": "Ethan Regan",
               "show_date": "2026-11-07",
