@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:06:12.151228+00:00",
+  "generated_at": "2026-11-08T13:28:41.895892+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Fantastic Cat with Special Guest OK Cowgirl",
-              "show_date": "2026-11-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/fantastic-cat-ok-cowgirl-mr-smalls-theatre-tickets/14988813"
-            },
             {
               "artist": "Julia Jacklin",
               "show_date": "2026-11-11",
@@ -106,6 +99,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/bleood-mr-smalls-theatre-tickets/15036923"
+            },
+            {
+              "artist": "Voodoo Glow Skulls",
+              "show_date": "2026-12-10",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/voodoo-glow-skulls-the-koffin-mr-smalls-theatre-tickets/15032063"
             }
           ]
         },
@@ -138,15 +138,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Seven Teller",
-              "show_date": "2026-11-07",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/seven-teller-club-cafe-tickets/14297344"
-            },
             {
               "artist": "Maria and the Coins \"Hell of a Ride\" Tour w/ Beach Boise Idaho & Almost Exactly Like Julia",
               "show_date": "2026-11-08",
@@ -223,6 +216,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/minka-club-cafe-tickets/15003213"
+            },
+            {
+              "artist": "VALE\u0301",
+              "show_date": "2026-12-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/vale-wsg-calysta-club-cafe-tickets/14211584"
             }
           ]
         },
@@ -365,17 +365,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 7,
+          "show_count": 6,
           "shows": [
-            {
-              "artist": "Ethan Regan",
-              "show_date": "2026-11-07",
-              "show_time": "19:00:00",
-              "support_acts": [
-                "Lily Kershaw"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/ethan-regan-young-regan-tour-pittsburgh-pennsylvania-11-07-2026/event/160064C1D26BCFD8"
-            },
             {
               "artist": "High Vis",
               "show_date": "2026-11-10",
