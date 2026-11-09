@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:28:41.895892+00:00",
+  "generated_at": "2026-11-09T16:25:39.094090+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -138,15 +138,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 15,
+          "show_count": 14,
           "shows": [
-            {
-              "artist": "Maria and the Coins \"Hell of a Ride\" Tour w/ Beach Boise Idaho & Almost Exactly Like Julia",
-              "show_date": "2026-11-08",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/maria-and-the-coins-hell-club-cafe-tickets/14346974"
-            },
             {
               "artist": "JACKIE EVANS W/ ELLI ROWE",
               "show_date": "2026-11-11",
@@ -223,6 +216,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/vale-wsg-calysta-club-cafe-tickets/14211584"
+            },
+            {
+              "artist": "Magnolia Boulevard w/ Madison Hughes",
+              "show_date": "2026-12-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/magnolia-boulevard-w-madison-hughes-club-cafe-tickets/14996973"
             }
           ]
         },
