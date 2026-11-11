@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:55:52.417730+00:00",
+  "generated_at": "2026-11-11T14:26:35.880032+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,7 +13,7 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 16,
           "shows": [
             {
               "artist": "Julia Jacklin",
@@ -138,7 +138,7 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 15,
+          "show_count": 17,
           "shows": [
             {
               "artist": "JACKIE EVANS W/ ELLI ROWE",
@@ -183,6 +183,13 @@
               "ticket_url": "https://www.ticketweb.com/event/kelsey-waldon-w-candi-jenkins-club-cafe-tickets/14307584"
             },
             {
+              "artist": "Solace",
+              "show_date": "2026-11-20",
+              "show_time": "22:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/solace-club-cafe-tickets/14439774"
+            },
+            {
               "artist": "Charlie Parr",
               "show_date": "2026-11-21",
               "show_time": "20:00:00",
@@ -216,13 +223,6 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/vale-wsg-calysta-club-cafe-tickets/14211584"
-            },
-            {
-              "artist": "Magnolia Boulevard w/ Madison Hughes",
-              "show_date": "2026-12-16",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/magnolia-boulevard-w-madison-hughes-club-cafe-tickets/14996973"
             }
           ]
         },
@@ -235,7 +235,7 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 20,
+          "show_count": 21,
           "shows": [
             {
               "artist": "Pouya",
@@ -365,15 +365,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 6,
+          "show_count": 5,
           "shows": [
-            {
-              "artist": "High Vis",
-              "show_date": "2026-11-10",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/high-vis-pittsburgh-pennsylvania-11-10-2026/event/16006528C00F98F4"
-            },
             {
               "artist": "Little Image",
               "show_date": "2026-11-11",

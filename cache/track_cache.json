@@ -8037,5 +8037,57 @@
       "artist": "Niko Moon"
     }
   ],
-  "Good 'N Country, live band two step and partner dancing presented by Dave Shepherd and Steel City Squares": []
+  "Good 'N Country, live band two step and partner dancing presented by Dave Shepherd and Steel City Squares": [],
+  "Lucinda Williams": [
+    {
+      "uri": "spotify:track:31nItlXwgCCFpttS50Rbxf",
+      "name": "Fruits Of My Labor",
+      "artist": "Lucinda Williams"
+    },
+    {
+      "uri": "spotify:track:0kyM6MaS573Gt9Yna1rsqd",
+      "name": "Can't Let Go",
+      "artist": "Lucinda Williams"
+    },
+    {
+      "uri": "spotify:track:4qCzHeR0X0zGK0oT2AOlhW",
+      "name": "Righteously",
+      "artist": "Lucinda Williams"
+    }
+  ],
+  "Solace": [],
+  "Cory Branan": [
+    {
+      "uri": "spotify:track:2MbkOVIdZDNAklgnRZPgf3",
+      "name": "The Prettiest Waitress in Memphis",
+      "artist": "Cory Branan"
+    },
+    {
+      "uri": "spotify:track:1hu1N4BHkQ9H1yrlUg8bPb",
+      "name": "Tall Green Grass",
+      "artist": "Cory Branan"
+    },
+    {
+      "uri": "spotify:track:2cqnQBa6G1QC4tDkjN6jID",
+      "name": "Survivor Blues",
+      "artist": "Cory Branan"
+    }
+  ],
+  "Grace Potter": [
+    {
+      "uri": "spotify:track:0ijD0CWlqRnxN1gJRJVnA6",
+      "name": "Gold Dust Woman",
+      "artist": "Grace Potter"
+    },
+    {
+      "uri": "spotify:track:0b3TwR2mtlpEJgNqDllpun",
+      "name": "Love Me Not",
+      "artist": "Grace Potter"
+    },
+    {
+      "uri": "spotify:track:51VpuQ9g4HfEMteXVoVMQ3",
+      "name": "Trespasser",
+      "artist": "Grace Potter"
+    }
+  ]
 }
