@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:26:35.880032+00:00",
+  "generated_at": "2026-11-12T15:19:04.522636+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Julia Jacklin",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/julia-jacklin-jordan-patterson-mr-smalls-theatre-tickets/14952183"
-            },
             {
               "artist": "Bumpin Uglies",
               "show_date": "2026-11-12",
@@ -106,6 +99,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/voodoo-glow-skulls-the-koffin-mr-smalls-theatre-tickets/15032063"
+            },
+            {
+              "artist": "Start Making Sense - a Tribute to Talking Heads",
+              "show_date": "2026-12-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/start-making-sense-mr-smalls-theatre-tickets/14313964"
             }
           ]
         },
@@ -140,13 +140,6 @@
           "stale": false,
           "show_count": 17,
           "shows": [
-            {
-              "artist": "JACKIE EVANS W/ ELLI ROWE",
-              "show_date": "2026-11-11",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/jackie-evans-w-elli-rowe-club-cafe-tickets/14237384"
-            },
             {
               "artist": "Maya De Vitry",
               "show_date": "2026-11-13",
@@ -223,6 +216,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/vale-wsg-calysta-club-cafe-tickets/14211584"
+            },
+            {
+              "artist": "While I Was Sleep - The Launch Party",
+              "show_date": "2026-12-11",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/while-i-was-sleep-club-cafe-tickets/14439754"
             }
           ]
         },
@@ -365,15 +365,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 5,
+          "show_count": 4,
           "shows": [
-            {
-              "artist": "Little Image",
-              "show_date": "2026-11-11",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/little-image-pittsburgh-pennsylvania-11-11-2026/event/1600652BCE65908A"
-            },
             {
               "artist": "Emo Nite",
               "show_date": "2026-11-13",
