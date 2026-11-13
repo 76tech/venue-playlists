@@ -8090,5 +8090,17 @@
       "artist": "Grace Potter"
     }
   ],
-  "While I Was Sleep - The Launch Party": []
+  "While I Was Sleep - The Launch Party": [],
+  "Roar": [
+    {
+      "uri": "spotify:track:37l31PrCNsg8baUjarNAi9",
+      "name": "I Can't Handle Change",
+      "artist": "Roar"
+    },
+    {
+      "uri": "spotify:track:7KV7xwHTJbzbwGQEHLIzR8",
+      "name": "Christmas Kids",
+      "artist": "Roar"
+    }
+  ]
 }

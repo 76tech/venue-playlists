@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:19:04.522636+00:00",
+  "generated_at": "2026-11-13T14:37:51.107410+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,26 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 15,
+          "show_count": 13,
           "shows": [
-            {
-              "artist": "Bumpin Uglies",
-              "show_date": "2026-11-12",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Artikal Sound System"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvdAI"
-            },
-            {
-              "artist": "Bumpin Uglies",
-              "show_date": "2026-11-12",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Artikal Sound System"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/bumpin-uglies-artikal-sound-system-mr-smalls-theatre-tickets/14203654"
-            },
             {
               "artist": "Ben Caplan",
               "show_date": "2026-11-14",
@@ -106,6 +88,20 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/start-making-sense-mr-smalls-theatre-tickets/14313964"
+            },
+            {
+              "artist": "Lucinda Williams",
+              "show_date": "2027-02-07",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/lucinda-williams-and-her-band-mr-smalls-theatre-tickets/14433804"
+            },
+            {
+              "artist": "Saxsquatch",
+              "show_date": "2027-02-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7o_z"
             }
           ]
         },
@@ -365,7 +361,7 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 4,
+          "show_count": 5,
           "shows": [
             {
               "artist": "Emo Nite",
@@ -394,6 +390,13 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/dogpark-pittsburgh-pennsylvania-02-16-2027/event/16006556B3D48160"
+            },
+            {
+              "artist": "Roar",
+              "show_date": "2027-03-13",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/roar-pittsburgh-pennsylvania-03-13-2027/event/16006569A66D664A"
             }
           ]
         }
