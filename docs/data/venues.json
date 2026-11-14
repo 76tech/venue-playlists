@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:37:51.107410+00:00",
+  "generated_at": "2026-11-14T13:34:55.452800+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -134,15 +134,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 17,
+          "show_count": 16,
           "shows": [
-            {
-              "artist": "Maya De Vitry",
-              "show_date": "2026-11-13",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/club-cafe-presents-maya-de-club-cafe-tickets/14227784"
-            },
             {
               "artist": "Chloe Kimes The Daredevil Tour",
               "show_date": "2026-11-15",
@@ -219,6 +212,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/while-i-was-sleep-club-cafe-tickets/14439754"
+            },
+            {
+              "artist": "Magnolia Boulevard w/ Madison Hughes",
+              "show_date": "2026-12-16",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/magnolia-boulevard-w-madison-hughes-club-cafe-tickets/14996973"
             }
           ]
         },
@@ -361,15 +361,8 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 5,
+          "show_count": 4,
           "shows": [
-            {
-              "artist": "Emo Nite",
-              "show_date": "2026-11-13",
-              "show_time": "21:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketmaster.com/emo-nite-pittsburgh-pennsylvania-11-13-2026/event/1600652BCBBA8C8C"
-            },
             {
               "artist": "feeble little horse",
               "show_date": "2027-02-09",
