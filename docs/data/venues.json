@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:34:55.452800+00:00",
+  "generated_at": "2026-11-15T13:57:59.575080+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,15 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 13,
+          "show_count": 12,
           "shows": [
-            {
-              "artist": "Ben Caplan",
-              "show_date": "2026-11-14",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/yaelokre-ben-caplan-mr-smalls-theatre-tickets/14193174"
-            },
             {
               "artist": "Tropidelic",
               "show_date": "2026-11-15",
@@ -102,6 +95,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7o_z"
+            },
+            {
+              "artist": "Saxsquatch - The Conspiracy Theory Tour",
+              "show_date": "2027-02-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/saxsquatch-the-conspiracy-mr-smalls-theatre-tickets/14363464"
             }
           ]
         },
@@ -231,20 +231,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 21,
+          "show_count": 20,
           "shows": [
-            {
-              "artist": "Pouya",
-              "show_date": "2026-11-14",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "Ramirez",
-                "comehelpglo",
-                "Black Smurf",
-                "Fat Nick"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/pouya-mckees-rocks-pennsylvania-11-14-2026/event/160064C8D16CAE11"
-            },
             {
               "artist": "The Menzingers",
               "show_date": "2026-11-15",
@@ -349,6 +337,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/the-taylor-party-the-ts-dance-mckees-rocks-pennsylvania-12-11-2026/event/160064EAD46B934E"
+            },
+            {
+              "artist": "Montell Fish",
+              "show_date": "2026-12-12",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/montell-fish-the-nest-tour-mckees-rocks-pennsylvania-12-12-2026/event/1600654CA20147E5"
             }
           ]
         },
