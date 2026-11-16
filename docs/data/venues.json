@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:57:59.575080+00:00",
+  "generated_at": "2026-11-16T15:51:23.539987+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -13,17 +13,8 @@
           "cover": "assets/covers/mr-smalls-theatre-pgh.jpg",
           "calendar_url": "https://mrsmalls.com/listing/upcoming-theatre-events/",
           "stale": false,
-          "show_count": 12,
+          "show_count": 11,
           "shows": [
-            {
-              "artist": "Tropidelic",
-              "show_date": "2026-11-15",
-              "show_time": "19:30:00",
-              "support_acts": [
-                "Surfer Girl"
-              ],
-              "ticket_url": "https://www.ticketweb.com/event/tropidelic-surfer-girl-the-quasi-mr-smalls-theatre-tickets/14920663"
-            },
             {
               "artist": "Ravefurrest",
               "show_date": "2026-11-20",
@@ -134,15 +125,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 16,
+          "show_count": 15,
           "shows": [
-            {
-              "artist": "Chloe Kimes The Daredevil Tour",
-              "show_date": "2026-11-15",
-              "show_time": "19:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/chloe-kimes-the-daredevil-tour-club-cafe-tickets/15041133"
-            },
             {
               "artist": "Aaron Lee Tasjan",
               "show_date": "2026-11-17",
@@ -219,6 +203,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/magnolia-boulevard-w-madison-hughes-club-cafe-tickets/14996973"
+            },
+            {
+              "artist": "Good 'N Country, live band two step and partner dancing presented by Dave Shepherd and Steel City Squares",
+              "show_date": "2027-01-08",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/good-n-country-live-band-club-cafe-tickets/14435834"
             }
           ]
         },
@@ -233,16 +224,6 @@
           "stale": false,
           "show_count": 20,
           "shows": [
-            {
-              "artist": "The Menzingers",
-              "show_date": "2026-11-15",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "Hot Water Music",
-                "Weakened Friends"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-mckees-rocks-pennsylvania-11-15-2026/event/1600649AE6A2CD34"
-            },
             {
               "artist": "Whitechapel",
               "show_date": "2026-11-17",
@@ -344,6 +325,15 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/montell-fish-the-nest-tour-mckees-rocks-pennsylvania-12-12-2026/event/1600654CA20147E5"
+            },
+            {
+              "artist": "Night Lovell",
+              "show_date": "2026-12-15",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "1nonly"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/night-lovell-mckees-rocks-pennsylvania-12-15-2026/event/16006539C1908EC5"
             }
           ]
         },
