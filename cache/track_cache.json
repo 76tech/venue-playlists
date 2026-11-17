@@ -8119,5 +8119,29 @@
       "name": "The T",
       "artist": "Alaska Thunderfuck"
     }
+  ],
+  "Broadway Does Punk": [
+    {
+      "uri": "spotify:track:3Kh532m8v09QNe0xFGuKz6",
+      "name": "Burn",
+      "artist": "Broadway Does Punk"
+    }
+  ],
+  "The Funeral Portrait": [
+    {
+      "uri": "spotify:track:6ga5MQ9qQUlwOJpVIYFqft",
+      "name": "Mad World",
+      "artist": "The Funeral Portrait"
+    },
+    {
+      "uri": "spotify:track:2GdBC03mreiuaSxJlpcMtN",
+      "name": "My Future Prediction",
+      "artist": "The Funeral Portrait"
+    },
+    {
+      "uri": "spotify:track:5TrZpK9NH0PBqBoZssXN9c",
+      "name": "Dark Thoughts",
+      "artist": "The Funeral Portrait"
+    }
   ]
 }
