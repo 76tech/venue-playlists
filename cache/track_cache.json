@@ -8143,5 +8143,39 @@
       "name": "Dark Thoughts",
       "artist": "The Funeral Portrait"
     }
+  ],
+  "The Jack Wharff Band": [
+    {
+      "uri": "spotify:track:0bgijbvBSiTi4slIRi1OwC",
+      "name": "Washed",
+      "artist": "The Jack Wharff Band"
+    },
+    {
+      "uri": "spotify:track:5VrFKCrqnqA7qh7K36xyMf",
+      "name": "No Way Out - Songs From and Inspired by the Paramount+ Original Series Landman (Volume II)",
+      "artist": "The Jack Wharff Band"
+    },
+    {
+      "uri": "spotify:track:4TfG7M8dQ7GjwYBLnCUrBc",
+      "name": "Messed Up Kid",
+      "artist": "The Jack Wharff Band"
+    }
+  ],
+  "Mod Sun": [
+    {
+      "uri": "spotify:track:70ax9MRMjq9iAQRdJ26oIO",
+      "name": "Silverline",
+      "artist": "MOD SUN"
+    },
+    {
+      "uri": "spotify:track:6z7mOTf4O20AApGsTNn7fC",
+      "name": "Flames (feat. Avril Lavigne)",
+      "artist": "MOD SUN"
+    },
+    {
+      "uri": "spotify:track:4ChYzD2AahSZSSSevWrrbw",
+      "name": "Sunshine",
+      "artist": "MOD SUN"
+    }
   ]
 }

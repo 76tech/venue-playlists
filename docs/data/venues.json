@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:03:45.702905+00:00",
+  "generated_at": "2026-11-18T15:42:42.911061+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -125,15 +125,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 15,
+          "show_count": 14,
           "shows": [
-            {
-              "artist": "Aaron Lee Tasjan",
-              "show_date": "2026-11-17",
-              "show_time": "20:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/wyep-presents-aaron-lee-tasjan-club-cafe-tickets/14850093"
-            },
             {
               "artist": "Hannah Wicklund",
               "show_date": "2026-11-19",
@@ -210,6 +203,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/good-n-country-live-band-club-cafe-tickets/14435834"
+            },
+            {
+              "artist": "Calling Me Home Celebrating the music of Gram Parsons & Emmy Lou Harris",
+              "show_date": "2027-01-22",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/calling-me-home-celebrating-the-club-cafe-tickets/14422084"
             }
           ]
         },
@@ -222,19 +222,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 22,
+          "show_count": 21,
           "shows": [
-            {
-              "artist": "Whitechapel",
-              "show_date": "2026-11-17",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "Chelsea Grin",
-                "The Acacia Strain",
-                "Netherwalker"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-mckees-rocks-pennsylvania-11-17-2026/event/160064C3D899E9CC"
-            },
             {
               "artist": "Imminence",
               "show_date": "2026-11-18",
@@ -334,6 +323,15 @@
                 "1nonly"
               ],
               "ticket_url": "https://www.ticketmaster.com/night-lovell-mckees-rocks-pennsylvania-12-15-2026/event/16006539C1908EC5"
+            },
+            {
+              "artist": "Bone Thugs-N-Harmony",
+              "show_date": "2026-12-18",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Sean Ski"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/bone-thugsnharmony-mckees-rocks-pennsylvania-12-18-2026/event/1600653DD8F9E128"
             }
           ]
         },
@@ -346,8 +344,15 @@
           "cover": "assets/covers/spirit-hall-pgh.jpg",
           "calendar_url": "https://www.spiritpgh.com/calendar",
           "stale": false,
-          "show_count": 4,
+          "show_count": 6,
           "shows": [
+            {
+              "artist": "The Jack Wharff Band",
+              "show_date": "2027-01-17",
+              "show_time": "19:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketmaster.com/the-jack-wharff-band-the-coming-pittsburgh-pennsylvania-01-17-2027/event/16006571A09A86CF"
+            },
             {
               "artist": "feeble little horse",
               "show_date": "2027-02-09",
@@ -368,6 +373,15 @@
               "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketmaster.com/dogpark-pittsburgh-pennsylvania-02-16-2027/event/16006556B3D48160"
+            },
+            {
+              "artist": "Mod Sun",
+              "show_date": "2027-03-01",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Public Works"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/mod-sun-dont-be-a-poet-pittsburgh-pennsylvania-03-01-2027/event/1600656DB679A970"
             },
             {
               "artist": "Roar",
