@@ -8177,5 +8177,22 @@
       "name": "Sunshine",
       "artist": "MOD SUN"
     }
+  ],
+  "Merce Lemon": [
+    {
+      "uri": "spotify:track:1BK3yHAhHWNpcNYBNa0GA6",
+      "name": "Backyard Lover",
+      "artist": "Merce Lemon"
+    },
+    {
+      "uri": "spotify:track:3F81ZndWmQF7GDTX7Wz5gs",
+      "name": "Cup of Loneliness",
+      "artist": "Merce Lemon"
+    },
+    {
+      "uri": "spotify:track:06aiBH0nvsWtUOqsnUAhxD",
+      "name": "Foolish and Fast",
+      "artist": "Merce Lemon"
+    }
   ]
 }
