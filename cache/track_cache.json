@@ -8229,5 +8229,22 @@
       "name": "They Don't Care About Us",
       "artist": "Beast In Black"
     }
+  ],
+  "Four Year Strong": [
+    {
+      "uri": "spotify:track:769bAS5Dj96PAI6ccX5lic",
+      "name": "Heroes Get Remembered, Legends Never Die",
+      "artist": "Four Year Strong"
+    },
+    {
+      "uri": "spotify:track:0FS9fZv3bXiXDyYfIOkVu9",
+      "name": "It Must Really Suck To Be Four Year Strong Right Now",
+      "artist": "Four Year Strong"
+    },
+    {
+      "uri": "spotify:track:14wr2I5FsCigi2Pkbr2qDf",
+      "name": "Wasting Time (Eternal Summer)",
+      "artist": "Four Year Strong"
+    }
   ]
 }
