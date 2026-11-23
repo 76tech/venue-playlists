@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:37:45.664572+00:00",
+  "generated_at": "2026-11-23T18:14:28.644619+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -76,7 +76,7 @@
             {
               "artist": "Lucinda Williams",
               "show_date": "2027-02-07",
-              "show_time": "20:00:00",
+              "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/lucinda-williams-and-her-band-mr-smalls-theatre-tickets/14433804"
             },
@@ -134,15 +134,8 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 10,
+          "show_count": 9,
           "shows": [
-            {
-              "artist": "Whiskey River Bloody Mary Morning",
-              "show_date": "2026-11-22",
-              "show_time": "12:00:00",
-              "support_acts": [],
-              "ticket_url": "https://www.ticketweb.com/event/whiskey-river-bloody-mary-morning-club-cafe-tickets/14295424"
-            },
             {
               "artist": "Billy Price Band",
               "show_date": "2026-11-27",
