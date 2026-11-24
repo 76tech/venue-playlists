@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:14:28.644619+00:00",
+  "generated_at": "2026-11-24T17:49:14.493564+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -134,12 +134,12 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 9,
+          "show_count": 10,
           "shows": [
             {
               "artist": "Billy Price Band",
               "show_date": "2026-11-27",
-              "show_time": "19:00:00",
+              "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/billy-price-club-cafe-tickets/14380464"
             },
@@ -170,6 +170,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/magnolia-boulevard-w-madison-hughes-club-cafe-tickets/14996973"
+            },
+            {
+              "artist": "A Ray Charles Review performed by Clinton Clegg w/ backing band Check Your Bucket",
+              "show_date": "2026-12-30",
+              "show_time": "18:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/a-ray-charles-review-performed-club-cafe-tickets/15066643"
             },
             {
               "artist": "Good 'N Country, live band two step and partner dancing presented by Dave Shepherd and Steel City Squares",
