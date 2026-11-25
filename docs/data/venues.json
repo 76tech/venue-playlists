@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:49:14.493564+00:00",
+  "generated_at": "2026-11-25T17:16:07.890652+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -134,7 +134,7 @@
           "cover": "assets/covers/club-cafe-pgh.jpg",
           "calendar_url": "https://www.clubcafelive.com/upcoming-shows",
           "stale": false,
-          "show_count": 10,
+          "show_count": 11,
           "shows": [
             {
               "artist": "Billy Price Band",
@@ -174,7 +174,7 @@
             {
               "artist": "A Ray Charles Review performed by Clinton Clegg w/ backing band Check Your Bucket",
               "show_date": "2026-12-30",
-              "show_time": "18:00:00",
+              "show_time": "19:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/a-ray-charles-review-performed-club-cafe-tickets/15066643"
             },
@@ -198,6 +198,13 @@
               "show_time": "20:00:00",
               "support_acts": [],
               "ticket_url": "https://www.ticketweb.com/event/joey-harkum-club-cafe-tickets/14385074"
+            },
+            {
+              "artist": "Low Water",
+              "show_date": "2027-02-19",
+              "show_time": "20:00:00",
+              "support_acts": [],
+              "ticket_url": "https://www.ticketweb.com/event/low-water-club-cafe-tickets/15067943"
             },
             {
               "artist": "Cory Branan",
