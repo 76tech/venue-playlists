@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:16:07.890652+00:00",
+  "generated_at": "2026-11-26T16:56:51.002086+00:00",
   "cities": [
     {
       "name": "Pittsburgh",
@@ -224,18 +224,8 @@
           "cover": "assets/covers/roxian-theatre-pgh.jpg",
           "calendar_url": "https://www.roxiantheatre.com/",
           "stale": false,
-          "show_count": 19,
+          "show_count": 18,
           "shows": [
-            {
-              "artist": "Catch Your Breath",
-              "show_date": "2026-11-25",
-              "show_time": "18:00:00",
-              "support_acts": [
-                "TX2",
-                "Colorblind"
-              ],
-              "ticket_url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-mckees-rocks-pennsylvania-11-25-2026/event/160064B5E74DE28C"
-            },
             {
               "artist": "Punchline",
               "show_date": "2026-11-28",
@@ -331,6 +321,15 @@
                 "Glimmers"
               ],
               "ticket_url": "https://www.ticketmaster.com/broadway-does-punk-mckees-rocks-pennsylvania-01-24-2027/event/1600656DA3588423"
+            },
+            {
+              "artist": "Tommy Emmanuel",
+              "show_date": "2027-01-28",
+              "show_time": "19:00:00",
+              "support_acts": [
+                "Jack Schneider"
+              ],
+              "ticket_url": "https://www.ticketmaster.com/tommy-emmanuel-cgp-living-in-the-mckees-rocks-pennsylvania-01-28-2027/event/16006523CB4B9813"
             }
           ]
         },
